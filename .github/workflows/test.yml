@@ -1,0 +1,32 @@
+name: test1
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * 1-5" # 01:00 UTC Mon–Fri
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ✅ Setup Node.js with built-in cache
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      # (optional) install dependencies if you later add any package.json
+      - name: Install dependencies
+        if: hashFiles('package-lock.json') != ''
+        run: npm ci
+
+      - name: Run fetch script
+        run: node test.js
