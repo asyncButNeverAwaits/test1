@@ -2,8 +2,6 @@ name: test1
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * 1-5" # 01:00 UTC Mon–Fri
 
 permissions:
   contents: write
