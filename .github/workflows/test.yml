@@ -13,20 +13,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 🧩 Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ✅ Setup Node.js with built-in cache
+      # ⚙️ Setup Node.js with caching
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'npm'
 
-      # (optional) install dependencies if you later add any package.json
+      # 🧱 Install dependencies (if package-lock.json exists)
       - name: Install dependencies
         if: hashFiles('package-lock.json') != ''
         run: npm ci
 
+      # 🚀 Run your script
       - name: Run fetch script
         run: node test.js
+
+      # 💾 Commit & push generated JSON file
+      - name: Commit and push results
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          BRANCH_NAME="${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}"
+          echo "🪶 Committing to branch: $BRANCH_NAME"
+
+          git add -A
+          git commit -m "📦 Update data for $(date -u +'%Y-%m-%d')" || echo "ℹ️ No changes to commit"
+          git pull --rebase origin "$BRANCH_NAME"
+          git push origin "$BRANCH_NAME"

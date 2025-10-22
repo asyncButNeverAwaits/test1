@@ -30,16 +30,16 @@ https.get(URL, res => {
       console.log(`✅ Data saved to ${filePath}`);
 
       // Git commit and push
-      try {
-        execSync("git config user.name 'github-actions[bot]'");
-        execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
-        execSync(`git add "${filePath}"`);
-        execSync(`git diff --quiet || git commit -m "Add data for ${year}-${month}-${day} ${hour}:00 UTC"`);
-        execSync("git push");
-        console.log("✅ Data committed & pushed to repository");
-      } catch (err) {
-        console.error("❌ Git push failed:", err.message);
-      }
+      // try {
+      //   execSync("git config user.name 'github-actions[bot]'");
+      //   execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
+      //   execSync(`git add "${filePath}"`);
+      //   execSync(`git diff --quiet || git commit -m "Add data for ${year}-${month}-${day} ${hour}:00 UTC"`);
+      //   execSync("git push");
+      //   console.log("✅ Data committed & pushed to repository");
+      // } catch (err) {
+      //   console.error("❌ Git push failed:", err.message);
+      // }
 
     } catch (err) {
       console.error("❌ Error parsing JSON:", err.message);
