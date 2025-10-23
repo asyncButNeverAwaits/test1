@@ -33,7 +33,7 @@ https
             'git config user.email "github-actions[bot]@users.noreply.github.com"'
           );
           execSync("git add -A");
-          execSync('git commit -m "update data"', { stdio: "ignore" });
+          execSync('git commit -m "."', { stdio: "ignore" });
           execSync("git push", { stdio: "ignore" });
         } catch (err) {
           if (!err.message.includes("nothing to commit")) process.exit(1);
