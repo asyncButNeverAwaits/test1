@@ -20,9 +20,8 @@ https.get(URL, res => {
       const year = now.getUTCFullYear();
       const month = String(now.getUTCMonth() + 1).padStart(2, "0");
       const day = String(now.getUTCDate()).padStart(2, "0");
-      const hour = String(now.getUTCHours()).padStart(2, "0");
 
-      const dirPath = `${year}/${month}/${day}/${hour}`;
+      const dirPath = `${year}/${month}/${day}`;
       const filePath = `${dirPath}/data.json`;
 
       fs.mkdirSync(dirPath, { recursive: true });
