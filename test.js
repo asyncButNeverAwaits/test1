@@ -25,7 +25,7 @@ https
         const filePath = `${dirPath}/data.json`;
 
         fs.mkdirSync(dirPath, { recursive: true });
-        fs.writeFileSync(filePath, JSON.stringify(json));
+        fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
 
         try {
           execSync('git config user.name "github-actions[bot]"');
