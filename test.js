@@ -33,13 +33,17 @@ https
             'git config user.email "github-actions[bot]@users.noreply.github.com"'
           );
           execSync("git add -A");
-          execSync('git commit -m "."', { stdio: "ignore" });
-          execSync("git push", { stdio: "ignore" });
+          execSync('git commit -m "."', { stdio: "pipe" });
+          execSync("git push", { stdio: "pipe" });
         } catch (err) {
-          if (err.message.includes("nothing to commit")) {
+          const output = err.stdout?.toString() || "";
+          const errorOut = err.stderr?.toString() || "";
+          if (output.includes("nothing to commit") || errorOut.includes("nothing to commit")) {
             console.log("No changes to commit.");
           } else {
-            console.error("Git error:", err.message);
+            console.error("Git commit/push failed:");
+            if (output) console.error("stdout:", output.trim());
+            if (errorOut) console.error("stderr:", errorOut.trim());
             process.exit(1);
           }
         }
