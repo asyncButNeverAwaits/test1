@@ -36,11 +36,20 @@ https
           execSync('git commit -m "."', { stdio: "ignore" });
           execSync("git push", { stdio: "ignore" });
         } catch (err) {
-          if (!err.message.includes("nothing to commit")) process.exit(1);
+          if (err.message.includes("nothing to commit")) {
+            console.log("No changes to commit.");
+          } else {
+            console.error("Git error:", err.message);
+            process.exit(1);
+          }
         }
-      } catch {
+      } catch (err) {
+        console.error("JSON or file error:", err.message);
         process.exit(1);
       }
     });
   })
-  .on("error", () => process.exit(1));
+  .on("error", (err) => {
+    console.error("HTTPS request error:", err.message);
+    process.exit(1);
+  });
