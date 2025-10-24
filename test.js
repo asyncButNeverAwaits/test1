@@ -28,10 +28,7 @@ https
         fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
 
         try {
-          execSync('git config user.name "github-actions[bot]"');
-          execSync(
-            'git config user.email "github-actions[bot]@users.noreply.github.com"'
-          );
+          execSync('git config user.name . && git config user.email .');
           execSync("git add -A");
           execSync('git commit -m "."', { stdio: "pipe" });
           execSync("git push", { stdio: "pipe" });
