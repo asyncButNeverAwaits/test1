@@ -364,7 +364,7 @@
     "country": "CHF",
     "date": "2025-10-30T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "98.3",
+    "forecast": "98.1",
     "previous": "98.0"
   },
   {
@@ -380,7 +380,7 @@
     "country": "EUR",
     "date": "2025-10-30T04:55:00-04:00",
     "impact": "Low",
-    "forecast": "10K",
+    "forecast": "8K",
     "previous": "14K"
   },
   {
@@ -508,7 +508,7 @@
     "country": "JPY",
     "date": "2025-10-30T19:50:00-04:00",
     "impact": "Low",
-    "forecast": "1.6%",
+    "forecast": "1.5%",
     "previous": "-1.2%"
   },
   {
@@ -540,7 +540,7 @@
     "country": "CNY",
     "date": "2025-10-30T21:30:00-04:00",
     "impact": "High",
-    "forecast": "49.7",
+    "forecast": "49.6",
     "previous": "49.8"
   },
   {
@@ -556,7 +556,7 @@
     "country": "JPY",
     "date": "2025-10-31T01:00:00-04:00",
     "impact": "Low",
-    "forecast": "-7.7%",
+    "forecast": "-7.9%",
     "previous": "-9.8%"
   },
   {
@@ -564,7 +564,7 @@
     "country": "EUR",
     "date": "2025-10-31T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "-0.5%"
   },
   {
@@ -572,7 +572,7 @@
     "country": "EUR",
     "date": "2025-10-31T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "-0.2%"
   },
   {
@@ -580,7 +580,7 @@
     "country": "GBP",
     "date": "2025-10-31T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.1%",
+    "forecast": "0.0%",
     "previous": "0.5%"
   },
   {
@@ -588,7 +588,7 @@
     "country": "CHF",
     "date": "2025-10-31T03:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "-0.2%"
   },
   {
@@ -620,7 +620,7 @@
     "country": "EUR",
     "date": "2025-10-31T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.1%",
+    "forecast": "0.0%",
     "previous": "-0.2%"
   },
   {
@@ -644,7 +644,7 @@
     "country": "USD",
     "date": "2025-10-31T09:45:00-04:00",
     "impact": "Low",
-    "forecast": "42.0",
+    "forecast": "42.3",
     "previous": "40.6"
   },
   {
