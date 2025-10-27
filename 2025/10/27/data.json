@@ -216,22 +216,6 @@
     "previous": "2.72|1.2"
   },
   {
-    "title": "Goods Trade Balance",
-    "country": "USD",
-    "date": "2025-10-29T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-90.0B",
-    "previous": "-85.5B"
-  },
-  {
-    "title": "Prelim Wholesale Inventories m/m",
-    "country": "USD",
-    "date": "2025-10-29T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "-0.2%",
-    "previous": "-0.2%"
-  },
-  {
     "title": "BOC Monetary Policy Report",
     "country": "CAD",
     "date": "2025-10-29T09:45:00-04:00",
@@ -448,22 +432,6 @@
     "previous": "6.3%"
   },
   {
-    "title": "Advance GDP q/q",
-    "country": "USD",
-    "date": "2025-10-30T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "3.0%",
-    "previous": "3.0%"
-  },
-  {
-    "title": "Advance GDP Price Index q/q",
-    "country": "USD",
-    "date": "2025-10-30T08:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "2.9%",
-    "previous": "2.0%"
-  },
-  {
     "title": "Main Refinancing Rate",
     "country": "EUR",
     "date": "2025-10-30T09:15:00-04:00",
@@ -654,38 +622,6 @@
     "impact": "High",
     "forecast": "0.0%",
     "previous": "0.2%"
-  },
-  {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2025-10-31T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.2%"
-  },
-  {
-    "title": "Employment Cost Index q/q",
-    "country": "USD",
-    "date": "2025-10-31T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.9%",
-    "previous": "0.9%"
-  },
-  {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2025-10-31T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.4%"
-  },
-  {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2025-10-31T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.6%"
   },
   {
     "title": "FOMC Member Logan Speaks",
