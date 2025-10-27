@@ -92,7 +92,7 @@
     "country": "USD",
     "date": "2025-10-28T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "1.9%",
+    "forecast": "1.4%",
     "previous": "1.8%"
   },
   {
@@ -100,7 +100,7 @@
     "country": "USD",
     "date": "2025-10-28T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "-0.1%",
     "previous": "-0.1%"
   },
   {
@@ -108,7 +108,7 @@
     "country": "USD",
     "date": "2025-10-28T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "-14",
+    "forecast": "-11",
     "previous": "-17"
   },
   {
@@ -116,7 +116,7 @@
     "country": "USD",
     "date": "2025-10-28T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "93.9",
+    "forecast": "93.4",
     "previous": "94.2"
   },
   {
@@ -164,7 +164,7 @@
     "country": "JPY",
     "date": "2025-10-29T01:00:00-04:00",
     "impact": "Low",
-    "forecast": "35.6",
+    "forecast": "35.5",
     "previous": "35.3"
   },
   {
@@ -172,7 +172,7 @@
     "country": "EUR",
     "date": "2025-10-29T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.7%",
+    "forecast": "0.6%",
     "previous": "0.7%"
   },
   {
@@ -188,7 +188,7 @@
     "country": "GBP",
     "date": "2025-10-29T05:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.1%",
     "previous": "0.4%"
   },
   {
@@ -452,6 +452,14 @@
     "country": "EUR",
     "date": "2025-10-30T09:45:00-04:00",
     "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2025-10-30T09:55:00-04:00",
+    "impact": "Low",
     "forecast": "",
     "previous": ""
   },
