@@ -204,7 +204,7 @@
     "country": "GBP",
     "date": "2025-10-29T05:30:00-04:00",
     "impact": "Low",
-    "forecast": "5.5B",
+    "forecast": "5.6B",
     "previous": "6.0B"
   },
   {
@@ -244,7 +244,7 @@
     "country": "USD",
     "date": "2025-10-29T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "1.7%",
+    "forecast": "1.6%",
     "previous": "4.0%"
   },
   {
@@ -260,7 +260,7 @@
     "country": "USD",
     "date": "2025-10-29T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "-2.9M",
+    "forecast": "-0.9M",
     "previous": "-1.0M"
   },
   {
@@ -300,7 +300,7 @@
     "country": "AUD",
     "date": "2025-10-29T20:30:00-04:00",
     "impact": "Low",
-    "forecast": "-0.1%",
+    "forecast": "-0.3%",
     "previous": "-0.8%"
   },
   {
@@ -364,7 +364,7 @@
     "country": "CHF",
     "date": "2025-10-30T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "98.1",
+    "forecast": "98.4",
     "previous": "98.0"
   },
   {
