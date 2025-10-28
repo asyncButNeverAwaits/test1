@@ -106,7 +106,7 @@
   {
     "title": "Richmond Manufacturing Index",
     "country": "USD",
-    "date": "2025-10-28T10:00:00-04:00",
+    "date": "2025-10-28T09:59:00-04:00",
     "impact": "Medium",
     "forecast": "-11",
     "previous": "-17"
@@ -114,7 +114,7 @@
   {
     "title": "CB Consumer Confidence",
     "country": "USD",
-    "date": "2025-10-28T10:03:00-04:00",
+    "date": "2025-10-28T10:00:00-04:00",
     "impact": "Medium",
     "forecast": "93.4",
     "previous": "94.2"
