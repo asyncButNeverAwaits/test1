@@ -468,7 +468,7 @@
     "country": "USD",
     "date": "2025-10-30T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "71B",
     "previous": "87B"
   },
   {
@@ -548,7 +548,7 @@
     "country": "CNY",
     "date": "2025-10-30T21:30:00-04:00",
     "impact": "Medium",
-    "forecast": "50.2",
+    "forecast": "50.1",
     "previous": "50.0"
   },
   {
@@ -556,7 +556,7 @@
     "country": "JPY",
     "date": "2025-10-31T01:00:00-04:00",
     "impact": "Low",
-    "forecast": "-7.9%",
+    "forecast": "-7.8%",
     "previous": "-9.8%"
   },
   {
