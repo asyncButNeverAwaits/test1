@@ -88,20 +88,20 @@
     "previous": "-22.3"
   },
   {
+    "title": "HPI m/m",
+    "country": "USD",
+    "date": "2025-10-28T09:00:00-04:00",
+    "impact": "Low",
+    "forecast": "-0.1%",
+    "previous": "-0.1%"
+  },
+  {
     "title": "S&P/CS Composite-20 HPI y/y",
     "country": "USD",
     "date": "2025-10-28T09:00:00-04:00",
     "impact": "Low",
     "forecast": "1.4%",
     "previous": "1.8%"
-  },
-  {
-    "title": "HPI m/m",
-    "country": "USD",
-    "date": "2025-10-28T09:03:00-04:00",
-    "impact": "Low",
-    "forecast": "-0.1%",
-    "previous": "-0.1%"
   },
   {
     "title": "Richmond Manufacturing Index",
@@ -260,7 +260,7 @@
     "country": "USD",
     "date": "2025-10-29T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-2.9M",
     "previous": "-1.0M"
   },
   {
