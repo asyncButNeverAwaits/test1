@@ -304,9 +304,17 @@
     "previous": "-0.8%"
   },
   {
+    "title": "BOJ Outlook Report",
+    "country": "JPY",
+    "date": "2025-10-29T23:15:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "BOJ Policy Rate",
     "country": "JPY",
-    "date": "2025-10-29T22:30:00-04:00",
+    "date": "2025-10-29T23:15:00-04:00",
     "impact": "High",
     "forecast": "<0.50%",
     "previous": "<0.50%"
@@ -314,15 +322,7 @@
   {
     "title": "Monetary Policy Statement",
     "country": "JPY",
-    "date": "2025-10-29T22:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "BOJ Outlook Report",
-    "country": "JPY",
-    "date": "2025-10-29T22:48:00-04:00",
+    "date": "2025-10-29T23:15:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
