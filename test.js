@@ -7,6 +7,18 @@ const URL = Buffer.from(
   "base64"
 ).toString("utf8");
 
+function writeLastUpdate(success) {
+  const timestamp = Date.now();
+  const status = success ? "success" : "failed";
+  const content = `${timestamp} ${status}\n`;
+
+  try {
+    fs.writeFileSync("last_update.txt", content);
+  } catch (err) {
+    console.error("Error writing last_update.txt:", err.message);
+  }
+}
+
 https
   .get(URL, (res) => {
     let data = "";
@@ -32,25 +44,30 @@ https
           execSync("git add -A");
           execSync('git commit -m "."', { stdio: "pipe" });
           execSync("git push", { stdio: "pipe" });
+          writeLastUpdate(true);
         } catch (err) {
           const output = err.stdout?.toString() || "";
           const errorOut = err.stderr?.toString() || "";
           if (output.includes("nothing to commit") || errorOut.includes("nothing to commit")) {
             console.log("No changes to commit.");
+            writeLastUpdate(true);
           } else {
             console.error("Git commit/push failed:");
             if (output) console.error("stdout:", output.trim());
             if (errorOut) console.error("stderr:", errorOut.trim());
+            writeLastUpdate(false);
             process.exit(1);
           }
         }
       } catch (err) {
         console.error("JSON or file error:", err.message);
+        writeLastUpdate(false);
         process.exit(1);
       }
     });
   })
   .on("error", (err) => {
     console.error("HTTPS request error:", err.message);
+    writeLastUpdate(false);
     process.exit(1);
   });
