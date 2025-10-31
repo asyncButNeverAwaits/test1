@@ -91,8 +91,6 @@ export default {
         headers,
         body: JSON.stringify({ sha: newCommit.sha }),
       });
-
-      console.log(`✅ Updated ${dirPath}/data.json and last_update.txt in one commit`);
     } catch (err) {
       console.error("❌ Worker failed:", err);
     }
