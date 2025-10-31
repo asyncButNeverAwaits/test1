@@ -1,20 +1,20 @@
-name: test1
+# name: test1
 
-on:
-  workflow_dispatch:
+# on:
+#   workflow_dispatch:
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
+# jobs:
+#   fetch:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
+#     steps:
+#       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+#       - uses: actions/setup-node@v4
+#         with:
+#           node-version: 20
 
-      - run: node test.js
+#       - run: node test.js
