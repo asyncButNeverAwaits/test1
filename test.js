@@ -13,7 +13,7 @@ function writeLastUpdate(success) {
   fs.writeFileSync("last_update.txt", `${timestamp} ${status}\n`);
 }
 
-function gitCommitAndPush(message = ".") {
+function gitCommitAndPush(message = "⸻") {
   try {
     execSync('git config user.name "." && git config user.email "."');
     execSync("git add -A");
@@ -59,7 +59,7 @@ https
         fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
 
         writeLastUpdate(true);
-        gitCommitAndPush(".");
+        gitCommitAndPush("⸻");
       } catch (err) {
         handleFailure("JSON or file error:", err);
       }
