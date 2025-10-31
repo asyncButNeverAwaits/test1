@@ -10,13 +10,32 @@ const URL = Buffer.from(
 function writeLastUpdate(success) {
   const timestamp = Date.now();
   const status = success ? "success" : "failed";
-  const content = `${timestamp} ${status}\n`;
+  fs.writeFileSync("last_update.txt", `${timestamp} ${status}\n`);
+}
 
+function gitCommitAndPush(message = ".") {
   try {
-    fs.writeFileSync("last_update.txt", content);
+    execSync('git config user.name "." && git config user.email "."');
+    execSync("git add -A");
+    execSync("git add -f last_update.txt");
+    execSync(`git commit -m "${message}"`, { stdio: "pipe" });
+    execSync("git push", { stdio: "pipe" });
   } catch (err) {
-    console.error("Error writing last_update.txt:", err.message);
+    const out = err.stdout?.toString() || "";
+    const errOut = err.stderr?.toString() || "";
+    if (out.includes("nothing to commit") || errOut.includes("nothing to commit")) {
+      console.log("No changes to commit.");
+    } else {
+      console.error("Git push failed:", errOut || out);
+    }
   }
+}
+
+function handleFailure(msg, err) {
+  console.error(msg, err?.message || err);
+  writeLastUpdate(false);
+  gitCommitAndPush("update last_update.txt (failed)");
+  process.exit(1);
 }
 
 https
@@ -39,35 +58,11 @@ https
         fs.mkdirSync(dirPath, { recursive: true });
         fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
 
-        try {
-          execSync('git config user.name . && git config user.email .');
-          execSync("git add -A");
-          execSync('git commit -m "."', { stdio: "pipe" });
-          execSync("git push", { stdio: "pipe" });
-          writeLastUpdate(true);
-        } catch (err) {
-          const output = err.stdout?.toString() || "";
-          const errorOut = err.stderr?.toString() || "";
-          if (output.includes("nothing to commit") || errorOut.includes("nothing to commit")) {
-            console.log("No changes to commit.");
-            writeLastUpdate(true);
-          } else {
-            console.error("Git commit/push failed:");
-            if (output) console.error("stdout:", output.trim());
-            if (errorOut) console.error("stderr:", errorOut.trim());
-            writeLastUpdate(false);
-            process.exit(1);
-          }
-        }
+        writeLastUpdate(true);
+        gitCommitAndPush(".");
       } catch (err) {
-        console.error("JSON or file error:", err.message);
-        writeLastUpdate(false);
-        process.exit(1);
+        handleFailure("JSON or file error:", err);
       }
     });
   })
-  .on("error", (err) => {
-    console.error("HTTPS request error:", err.message);
-    writeLastUpdate(false);
-    process.exit(1);
-  });
+  .on("error", (err) => handleFailure("HTTPS request error:", err));
