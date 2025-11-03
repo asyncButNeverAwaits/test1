@@ -176,14 +176,6 @@
     "previous": "61.9"
   },
   {
-    "title": "Construction Spending m/m",
-    "country": "USD",
-    "date": "2025-11-03T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Wards Total Vehicle Sales",
     "country": "USD",
     "date": "2025-11-03T10:15:00-05:00",
@@ -307,38 +299,6 @@
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "date": "2025-11-04T08:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Trade Balance",
-    "country": "CAD",
-    "date": "2025-11-04T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-6.3B"
-  },
-  {
-    "title": "Trade Balance",
-    "country": "USD",
-    "date": "2025-11-04T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "JOLTS Job Openings",
-    "country": "USD",
-    "date": "2025-11-04T10:00:00-05:00",
-    "impact": "High",
-    "forecast": "7.21M",
-    "previous": "7.23M"
-  },
-  {
-    "title": "Factory Orders m/m",
-    "country": "USD",
-    "date": "2025-11-04T10:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -728,30 +688,6 @@
     "previous": "-25.8%"
   },
   {
-    "title": "Unemployment Claims",
-    "country": "USD",
-    "date": "2025-11-06T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Prelim Nonfarm Productivity q/q",
-    "country": "USD",
-    "date": "2025-11-06T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "3.6%",
-    "previous": "2.4%"
-  },
-  {
-    "title": "Prelim Unit Labor Costs q/q",
-    "country": "USD",
-    "date": "2025-11-06T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "0.9%",
-    "previous": "1.6%"
-  },
-  {
     "title": "Gov Council Member Gravelle Speaks",
     "country": "CAD",
     "date": "2025-11-06T08:50:00-05:00",
@@ -774,14 +710,6 @@
     "impact": "Medium",
     "forecast": "55.2",
     "previous": "59.8"
-  },
-  {
-    "title": "Final Wholesale Inventories m/m",
-    "country": "USD",
-    "date": "2025-11-06T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Natural Gas Storage",
@@ -968,14 +896,6 @@
     "previous": ""
   },
   {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2025-11-07T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.2%"
-  },
-  {
     "title": "Non-Farm Employment Change",
     "country": "USD",
     "date": "2025-11-07T08:30:00-05:00",
@@ -990,22 +910,6 @@
     "impact": "High",
     "forecast": "",
     "previous": ""
-  },
-  {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2025-11-07T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.4%"
-  },
-  {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2025-11-07T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.6%"
   },
   {
     "title": "Prelim UoM Consumer Sentiment",
@@ -1024,20 +928,20 @@
     "previous": "4.6%"
   },
   {
-    "title": "FOMC Member Miran Speaks",
-    "country": "USD",
-    "date": "2025-11-07T15:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Consumer Credit m/m",
     "country": "USD",
     "date": "2025-11-07T15:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "0.4B"
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2025-11-07T15:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "CPI y/y",
