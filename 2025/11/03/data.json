@@ -218,7 +218,7 @@
   {
     "title": "Loan Officer Survey",
     "country": "USD",
-    "date": "2025-11-03T14:03:00-05:00",
+    "date": "2025-11-03T14:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -331,14 +331,6 @@
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "date": "2025-11-04T12:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2025-11-04T13:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -660,7 +652,7 @@
     "country": "GBP",
     "date": "2025-11-06T07:00:00-05:00",
     "impact": "High",
-    "forecast": "0-1-8",
+    "forecast": "0-3-6",
     "previous": "0-2-7"
   },
   {
@@ -788,7 +780,7 @@
     "country": "JPY",
     "date": "2025-11-06T18:30:00-05:00",
     "impact": "Low",
-    "forecast": "2.6%",
+    "forecast": "2.5%",
     "previous": "2.3%"
   },
   {
@@ -796,7 +788,7 @@
     "country": "CNY",
     "date": "2025-11-06T21:03:00-05:00",
     "impact": "Low",
-    "forecast": "670B",
+    "forecast": "695B",
     "previous": "645B"
   },
   {
@@ -804,7 +796,7 @@
     "country": "CNY",
     "date": "2025-11-06T21:04:00-05:00",
     "impact": "Low",
-    "forecast": "95.6B",
+    "forecast": "96.7B",
     "previous": "90.5B"
   },
   {
@@ -812,7 +804,7 @@
     "country": "EUR",
     "date": "2025-11-07T02:00:00-05:00",
     "impact": "Low",
-    "forecast": "17.0B",
+    "forecast": "16.7B",
     "previous": "17.2B"
   },
   {
@@ -828,7 +820,7 @@
     "country": "EUR",
     "date": "2025-11-07T02:45:00-05:00",
     "impact": "Low",
-    "forecast": "-5.2B",
+    "forecast": "-5.8B",
     "previous": "-5.5B"
   },
   {
@@ -884,7 +876,7 @@
     "country": "CAD",
     "date": "2025-11-07T08:30:00-05:00",
     "impact": "High",
-    "forecast": "-4.0K",
+    "forecast": "-5.0K",
     "previous": "60.4K"
   },
   {
@@ -892,7 +884,7 @@
     "country": "CAD",
     "date": "2025-11-07T08:30:00-05:00",
     "impact": "High",
-    "forecast": "7.2%",
+    "forecast": "7.1%",
     "previous": "7.1%"
   },
   {
@@ -940,7 +932,7 @@
     "country": "USD",
     "date": "2025-11-07T15:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "10.8B",
     "previous": "0.4B"
   },
   {
@@ -956,7 +948,7 @@
     "country": "CNY",
     "date": "2025-11-08T20:30:00-05:00",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.0%",
     "previous": "-0.3%"
   },
   {
@@ -964,7 +956,7 @@
     "country": "CNY",
     "date": "2025-11-08T20:30:00-05:00",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-2.2%",
     "previous": "-2.3%"
   }
 ]
