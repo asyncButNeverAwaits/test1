@@ -524,7 +524,7 @@
     "country": "USD",
     "date": "2025-11-05T08:15:00-05:00",
     "impact": "High",
-    "forecast": "31K",
+    "forecast": "32K",
     "previous": "-32K"
   },
   {
@@ -548,7 +548,7 @@
     "country": "USD",
     "date": "2025-11-05T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "-2.4M",
+    "forecast": "-2.5M",
     "previous": "-6.9M"
   },
   {
@@ -580,7 +580,7 @@
     "country": "JPY",
     "date": "2025-11-05T18:30:00-05:00",
     "impact": "Low",
-    "forecast": "2.0%",
+    "forecast": "1.9%",
     "previous": "1.5%"
   },
   {
@@ -588,7 +588,7 @@
     "country": "AUD",
     "date": "2025-11-05T19:30:00-05:00",
     "impact": "Low",
-    "forecast": "3.91B",
+    "forecast": "3.93B",
     "previous": "1.83B"
   },
   {
@@ -620,7 +620,7 @@
     "country": "GBP",
     "date": "2025-11-06T04:30:00-05:00",
     "impact": "Low",
-    "forecast": "46.7",
+    "forecast": "46.9",
     "previous": "46.2"
   },
   {
@@ -740,7 +740,7 @@
     "country": "USD",
     "date": "2025-11-06T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "34B",
     "previous": "74B"
   },
   {
@@ -812,7 +812,7 @@
     "country": "CNY",
     "date": "2025-11-06T21:03:00-05:00",
     "impact": "Low",
-    "forecast": "695B",
+    "forecast": "705B",
     "previous": "645B"
   },
   {
@@ -820,7 +820,7 @@
     "country": "CNY",
     "date": "2025-11-06T21:04:00-05:00",
     "impact": "Low",
-    "forecast": "96.7B",
+    "forecast": "96.9B",
     "previous": "90.5B"
   },
   {
@@ -844,7 +844,7 @@
     "country": "EUR",
     "date": "2025-11-07T02:45:00-05:00",
     "impact": "Low",
-    "forecast": "-5.8B",
+    "forecast": "-5.9B",
     "previous": "-5.5B"
   },
   {
@@ -860,7 +860,7 @@
     "country": "CHF",
     "date": "2025-11-07T03:00:00-05:00",
     "impact": "Low",
-    "forecast": "-35",
+    "forecast": "-36",
     "previous": "-37"
   },
   {
@@ -883,14 +883,6 @@
     "title": "FOMC Member Jefferson Speaks",
     "country": "USD",
     "date": "2025-11-07T07:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "MPC Member Pill Speaks",
-    "country": "GBP",
-    "date": "2025-11-07T07:15:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -952,11 +944,19 @@
     "previous": "4.6%"
   },
   {
+    "title": "MPC Member Pill Speaks",
+    "country": "GBP",
+    "date": "2025-11-07T10:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Consumer Credit m/m",
     "country": "USD",
     "date": "2025-11-07T15:00:00-05:00",
     "impact": "Low",
-    "forecast": "10.8B",
+    "forecast": "10.4B",
     "previous": "0.4B"
   },
   {
@@ -980,7 +980,7 @@
     "country": "CNY",
     "date": "2025-11-08T20:30:00-05:00",
     "impact": "Medium",
-    "forecast": "-2.2%",
+    "forecast": "-2.3%",
     "previous": "-2.3%"
   }
 ]
