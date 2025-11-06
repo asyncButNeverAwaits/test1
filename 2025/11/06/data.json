@@ -640,17 +640,9 @@
     "previous": "46.2"
   },
   {
-    "title": "Retail Sales m/m",
-    "country": "EUR",
-    "date": "2025-11-06T05:00:00-05:00",
-    "impact": "Low",
-    "forecast": "0.2%",
-    "previous": "0.1%"
-  },
-  {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
-    "date": "2025-11-06T05:03:00-05:00",
+    "date": "2025-11-06T04:47:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.09|1.7"
@@ -658,10 +650,18 @@
   {
     "title": "French 10-y Bond Auction",
     "country": "EUR",
-    "date": "2025-11-06T05:18:00-05:00",
+    "date": "2025-11-06T04:59:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.51|2.5"
+  },
+  {
+    "title": "Retail Sales m/m",
+    "country": "EUR",
+    "date": "2025-11-06T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "0.1%"
   },
   {
     "title": "BOE Monetary Policy Report",
