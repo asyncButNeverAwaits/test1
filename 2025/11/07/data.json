@@ -826,7 +826,7 @@
   {
     "title": "Trade Balance",
     "country": "CNY",
-    "date": "2025-11-06T22:03:00-05:00",
+    "date": "2025-11-06T22:01:00-05:00",
     "impact": "Low",
     "forecast": "705B",
     "previous": "645B"
@@ -834,7 +834,7 @@
   {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
-    "date": "2025-11-06T22:04:00-05:00",
+    "date": "2025-11-06T22:02:00-05:00",
     "impact": "Low",
     "forecast": "96.9B",
     "previous": "90.5B"
