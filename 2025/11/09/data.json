@@ -56,6 +56,22 @@
     "previous": "-5.4"
   },
   {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "date": "2025-11-10T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Musalem Speaks",
+    "country": "USD",
+    "date": "2025-11-10T09:45:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Cleveland Fed Inflation Expectations",
     "country": "USD",
     "date": "2025-11-10T09:48:00-05:00",
@@ -363,6 +379,14 @@
     "title": "BOC Summary of Deliberations",
     "country": "CAD",
     "date": "2025-11-12T13:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Collins Speaks",
+    "country": "USD",
+    "date": "2025-11-12T16:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
