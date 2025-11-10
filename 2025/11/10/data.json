@@ -24,22 +24,6 @@
     "previous": "107.4%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2025-11-10T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "8.1%",
-    "previous": "8.4%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2025-11-10T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1290B"
-  },
-  {
     "title": "MPC Member Lombardelli Speaks",
     "country": "GBP",
     "date": "2025-11-10T04:10:00-05:00",
@@ -182,6 +166,22 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2025-11-11T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "8.1%",
+    "previous": "8.4%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2025-11-11T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1290B"
   },
   {
     "title": "German ZEW Economic Sentiment",
