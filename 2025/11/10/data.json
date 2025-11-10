@@ -92,7 +92,7 @@
     "country": "GBP",
     "date": "2025-11-10T19:01:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.4%",
     "previous": "2.0%"
   },
   {
@@ -598,6 +598,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.93%"
+  },
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "date": "2025-11-13T10:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Crude Oil Inventories",
