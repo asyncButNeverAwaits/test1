@@ -168,22 +168,6 @@
     "previous": ""
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2025-11-11T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "8.1%",
-    "previous": "8.4%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2025-11-11T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "465B",
-    "previous": "1290B"
-  },
-  {
     "title": "German ZEW Economic Sentiment",
     "country": "EUR",
     "date": "2025-11-11T05:00:00-05:00",
@@ -286,6 +270,22 @@
     "impact": "Low",
     "forecast": "1.5%",
     "previous": "-2.4%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2025-11-12T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "8.1%",
+    "previous": "8.4%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2025-11-12T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "465B",
+    "previous": "1290B"
   },
   {
     "title": "Eurogroup Meetings",
