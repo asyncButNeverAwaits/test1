@@ -544,38 +544,6 @@
     "previous": ""
   },
   {
-    "title": "Core CPI m/m",
-    "country": "USD",
-    "date": "2025-11-13T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.2%"
-  },
-  {
-    "title": "CPI m/m",
-    "country": "USD",
-    "date": "2025-11-13T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.3%"
-  },
-  {
-    "title": "CPI y/y",
-    "country": "USD",
-    "date": "2025-11-13T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "3.0%",
-    "previous": "3.0%"
-  },
-  {
-    "title": "Unemployment Claims",
-    "country": "USD",
-    "date": "2025-11-13T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Mortgage Delinquencies",
     "country": "USD",
     "date": "2025-11-13T10:05:00-05:00",
@@ -634,7 +602,7 @@
   {
     "title": "Federal Budget Balance",
     "country": "USD",
-    "date": "2025-11-13T14:00:00-05:00",
+    "date": "2025-11-13T14:03:00-05:00",
     "impact": "Low",
     "forecast": "-215.3B",
     "previous": "198.0B"
@@ -774,46 +742,6 @@
     "impact": "Low",
     "forecast": "0.0%",
     "previous": "-1.2%"
-  },
-  {
-    "title": "Core PPI m/m",
-    "country": "USD",
-    "date": "2025-11-14T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Core Retail Sales m/m",
-    "country": "USD",
-    "date": "2025-11-14T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "PPI m/m",
-    "country": "USD",
-    "date": "2025-11-14T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Retail Sales m/m",
-    "country": "USD",
-    "date": "2025-11-14T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Business Inventories m/m",
-    "country": "USD",
-    "date": "2025-11-14T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "FOMC Member Schmid Speaks",
