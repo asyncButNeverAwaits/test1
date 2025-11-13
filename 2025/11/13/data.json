@@ -560,20 +560,20 @@
     "previous": ""
   },
   {
-    "title": "Mortgage Delinquencies",
-    "country": "USD",
-    "date": "2025-11-13T10:05:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.93%"
-  },
-  {
     "title": "FOMC Member Kashkari Speaks",
     "country": "USD",
     "date": "2025-11-13T10:30:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Mortgage Delinquencies",
+    "country": "USD",
+    "date": "2025-11-13T11:29:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.93%"
   },
   {
     "title": "Crude Oil Inventories",
