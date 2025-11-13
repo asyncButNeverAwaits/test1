@@ -512,6 +512,22 @@
     "previous": ""
   },
   {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2025-11-13T04:01:00-05:00",
+    "impact": "Low",
+    "forecast": "460B",
+    "previous": "1290B"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2025-11-13T04:02:00-05:00",
+    "impact": "Low",
+    "forecast": "8.1%",
+    "previous": "8.4%"
+  },
+  {
     "title": "Industrial Production m/m",
     "country": "EUR",
     "date": "2025-11-13T05:00:00-05:00",
@@ -686,22 +702,6 @@
     "impact": "Low",
     "forecast": "3.18B",
     "previous": "2.05B"
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2025-11-14T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "8.1%",
-    "previous": "8.4%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2025-11-14T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "460B",
-    "previous": "1290B"
   },
   {
     "title": "Flash Employment Change q/q",
