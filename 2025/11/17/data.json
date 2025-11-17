@@ -48,14 +48,6 @@
     "previous": "2.2%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2025-11-17T01:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-10.4%"
-  },
-  {
     "title": "EU Economic Forecasts",
     "country": "EUR",
     "date": "2025-11-17T05:00:00-05:00",
@@ -182,6 +174,14 @@
     "impact": "Medium",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2025-11-18T01:02:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-10.4%"
   },
   {
     "title": "MPC Member Pill Speaks",
