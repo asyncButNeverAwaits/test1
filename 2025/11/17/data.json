@@ -192,30 +192,6 @@
     "previous": ""
   },
   {
-    "title": "Import Prices m/m",
-    "country": "USD",
-    "date": "2025-11-18T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Capacity Utilization Rate",
-    "country": "USD",
-    "date": "2025-11-18T09:15:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Industrial Production m/m",
-    "country": "USD",
-    "date": "2025-11-18T09:15:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Factory Orders m/m",
     "country": "USD",
     "date": "2025-11-18T10:00:00-05:00",
@@ -416,20 +392,12 @@
     "previous": "4.52|3.3"
   },
   {
-    "title": "Building Permits",
+    "title": "Trade Balance",
     "country": "USD",
     "date": "2025-11-19T08:30:00-05:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "date": "2025-11-19T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
+    "previous": "-78.3B"
   },
   {
     "title": "FOMC Member Miran Speaks",
@@ -630,14 +598,6 @@
     "impact": "Medium",
     "forecast": "4.11M",
     "previous": "4.06M"
-  },
-  {
-    "title": "CB Leading Index m/m",
-    "country": "USD",
-    "date": "2025-11-20T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Natural Gas Storage",
