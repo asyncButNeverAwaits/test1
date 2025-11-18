@@ -288,14 +288,6 @@
     "previous": "-0.9%"
   },
   {
-    "title": "Trade Balance",
-    "country": "JPY",
-    "date": "2025-11-18T18:50:00-05:00",
-    "impact": "Low",
-    "forecast": "-0.13T",
-    "previous": "-0.31T"
-  },
-  {
     "title": "Wage Price Index q/q",
     "country": "AUD",
     "date": "2025-11-18T19:30:00-05:00",
@@ -686,6 +678,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Trade Balance",
+    "country": "JPY",
+    "date": "2025-11-20T18:50:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.13T",
+    "previous": "-0.31T"
   },
   {
     "title": "GfK Consumer Confidence",
