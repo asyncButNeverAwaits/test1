@@ -242,10 +242,18 @@
   {
     "title": "TIC Long-Term Purchases",
     "country": "USD",
+    "date": "2025-11-18T15:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "49.2B"
+  },
+  {
+    "title": "TIC Long-Term Purchases",
+    "country": "USD",
     "date": "2025-11-18T16:00:00-05:00",
     "impact": "Low",
-    "forecast": "125.9B",
-    "previous": "49.2B"
+    "forecast": "",
+    "previous": "134.2B"
   },
   {
     "title": "API Weekly Statistical Bulletin",
