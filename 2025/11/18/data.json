@@ -240,14 +240,6 @@
     "previous": ""
   },
   {
-    "title": "Federal Budget Balance",
-    "country": "USD",
-    "date": "2025-11-18T14:03:00-05:00",
-    "impact": "Low",
-    "forecast": "-223.3B",
-    "previous": "198.0B"
-  },
-  {
     "title": "TIC Long-Term Purchases",
     "country": "USD",
     "date": "2025-11-18T16:00:00-05:00",
@@ -454,6 +446,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Federal Budget Balance",
+    "country": "USD",
+    "date": "2025-11-19T14:03:00-05:00",
+    "impact": "Low",
+    "forecast": "-223.3B",
+    "previous": "198.0B"
   },
   {
     "title": "1-y Loan Prime Rate",
