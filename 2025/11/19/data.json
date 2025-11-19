@@ -556,7 +556,7 @@
     "country": "USD",
     "date": "2025-11-20T08:30:00-05:00",
     "impact": "High",
-    "forecast": "55K",
+    "forecast": "53K",
     "previous": "22K"
   },
   {
@@ -926,6 +926,14 @@
     "impact": "Medium",
     "forecast": "50.6",
     "previous": "50.3"
+  },
+  {
+    "title": "Final Wholesale Inventories m/m",
+    "country": "USD",
+    "date": "2025-11-21T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Revised UoM Inflation Expectations",
