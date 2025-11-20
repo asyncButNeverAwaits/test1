@@ -648,14 +648,6 @@
     "previous": "4.06M"
   },
   {
-    "title": "CB Leading Index m/m",
-    "country": "USD",
-    "date": "2025-11-20T10:15:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Natural Gas Storage",
     "country": "USD",
     "date": "2025-11-20T10:30:00-05:00",
@@ -990,6 +982,14 @@
     "impact": "Low",
     "forecast": "4.7%",
     "previous": "4.7%"
+  },
+  {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "date": "2025-11-21T10:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "MPC Member Pill Speaks",
