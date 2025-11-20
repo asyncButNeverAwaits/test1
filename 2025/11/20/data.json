@@ -888,6 +888,14 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Collins Speaks",
+    "country": "USD",
+    "date": "2025-11-21T08:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Core Retail Sales m/m",
     "country": "CAD",
     "date": "2025-11-21T08:30:00-05:00",
@@ -913,6 +921,14 @@
   },
   {
     "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "date": "2025-11-21T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
     "country": "USD",
     "date": "2025-11-21T08:30:00-05:00",
     "impact": "Low",
