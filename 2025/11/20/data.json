@@ -170,10 +170,34 @@
   {
     "title": "Unemployment Claims",
     "country": "USD",
+    "date": "2025-11-18T03:07:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "218K"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-18T03:08:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "224K"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-18T03:09:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "235K"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
     "date": "2025-11-18T03:10:00-05:00",
     "impact": "High",
     "forecast": "",
-    "previous": "218K"
+    "previous": "220K"
   },
   {
     "title": "MPC Member Pill Speaks",
@@ -520,6 +544,30 @@
     "previous": "-38"
   },
   {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-20T08:27:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "232K"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-20T08:28:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "220K"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-20T08:29:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "229K"
+  },
+  {
     "title": "IPPI m/m",
     "country": "CAD",
     "date": "2025-11-20T08:30:00-05:00",
@@ -557,7 +605,7 @@
     "date": "2025-11-20T08:30:00-05:00",
     "impact": "High",
     "forecast": "227K",
-    "previous": "232K"
+    "previous": "228K"
   },
   {
     "title": "Unemployment Rate",
@@ -602,7 +650,7 @@
   {
     "title": "CB Leading Index m/m",
     "country": "USD",
-    "date": "2025-11-20T10:05:00-05:00",
+    "date": "2025-11-20T10:15:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
