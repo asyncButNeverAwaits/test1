@@ -552,6 +552,14 @@
     "previous": "22K"
   },
   {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2025-11-20T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "227K",
+    "previous": "232K"
+  },
+  {
     "title": "Unemployment Rate",
     "country": "USD",
     "date": "2025-11-20T08:30:00-05:00",
@@ -566,14 +574,6 @@
     "impact": "Medium",
     "forecast": "1.0",
     "previous": "-12.8"
-  },
-  {
-    "title": "Unemployment Claims",
-    "country": "USD",
-    "date": "2025-11-20T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "227K",
-    "previous": "232K"
   },
   {
     "title": "FOMC Member Hammack Speaks",
