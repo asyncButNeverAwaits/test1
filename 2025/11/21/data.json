@@ -972,8 +972,8 @@
     "country": "USD",
     "date": "2025-11-21T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
-    "previous": ""
+    "forecast": "-0.2%",
+    "previous": "-0.2%"
   },
   {
     "title": "Revised UoM Inflation Expectations",
@@ -982,14 +982,6 @@
     "impact": "Low",
     "forecast": "4.7%",
     "previous": "4.7%"
-  },
-  {
-    "title": "CB Leading Index m/m",
-    "country": "USD",
-    "date": "2025-11-21T10:15:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "MPC Member Pill Speaks",
