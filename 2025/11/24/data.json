@@ -58,7 +58,7 @@
   {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
-    "date": "2025-11-24T12:45:00-05:00",
+    "date": "2025-11-24T12:10:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -288,22 +288,6 @@
     "previous": "2.9%"
   },
   {
-    "title": "Prelim GDP q/q",
-    "country": "USD",
-    "date": "2025-11-26T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Prelim GDP Price Index q/q",
-    "country": "USD",
-    "date": "2025-11-26T08:30:00-05:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Chicago PMI",
     "country": "USD",
     "date": "2025-11-26T09:45:00-05:00",
@@ -312,44 +296,12 @@
     "previous": "43.8"
   },
   {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2025-11-26T10:00:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "CB Consumer Confidence",
     "country": "USD",
     "date": "2025-11-26T10:00:00-05:00",
     "impact": "Medium",
     "forecast": "93.4",
     "previous": "94.6"
-  },
-  {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2025-11-26T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2025-11-26T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "CB Leading Index m/m",
-    "country": "USD",
-    "date": "2025-11-26T10:15:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Crude Oil Inventories",
@@ -380,6 +332,14 @@
     "country": "USD",
     "date": "2025-11-26T14:00:00-05:00",
     "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "RBNZ Gov Hawkesby Speaks",
+    "country": "NZD",
+    "date": "2025-11-26T15:10:00-05:00",
+    "impact": "Medium",
     "forecast": "",
     "previous": ""
   },
