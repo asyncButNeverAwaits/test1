@@ -32,20 +32,20 @@
     "previous": "-1.7%"
   },
   {
+    "title": "Belgian NBB Business Climate",
+    "country": "EUR",
+    "date": "2025-11-24T08:50:00-05:00",
+    "impact": "Low",
+    "forecast": "-8.7",
+    "previous": "-9.1"
+  },
+  {
     "title": "CB Leading Index m/m",
     "country": "CNY",
     "date": "2025-11-24T09:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-0.1%"
-  },
-  {
-    "title": "Belgian NBB Business Climate",
-    "country": "EUR",
-    "date": "2025-11-24T09:00:00-05:00",
-    "impact": "Low",
-    "forecast": "-8.7",
-    "previous": "-9.1"
   },
   {
     "title": "ECB President Lagarde Speaks",
@@ -180,7 +180,7 @@
     "country": "AUD",
     "date": "2025-11-25T19:30:00-05:00",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.6%",
     "previous": "3.5%"
   },
   {
@@ -268,7 +268,7 @@
     "country": "USD",
     "date": "2025-11-26T08:30:00-05:00",
     "impact": "High",
-    "forecast": "",
+    "forecast": "226K",
     "previous": "220K"
   },
   {
@@ -276,7 +276,7 @@
     "country": "USD",
     "date": "2025-11-26T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.4%"
   },
   {
@@ -284,7 +284,7 @@
     "country": "USD",
     "date": "2025-11-26T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "2.9%"
   },
   {
@@ -468,7 +468,7 @@
     "country": "CAD",
     "date": "2025-11-27T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-14.4B",
+    "forecast": "-15.1B",
     "previous": "-21.2B"
   },
   {
