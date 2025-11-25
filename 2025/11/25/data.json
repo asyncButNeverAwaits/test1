@@ -128,20 +128,28 @@
     "previous": "1.6%"
   },
   {
+    "title": "Richmond Manufacturing Index",
+    "country": "USD",
+    "date": "2025-11-25T09:59:00-05:00",
+    "impact": "Medium",
+    "forecast": "-5",
+    "previous": "-4"
+  },
+  {
+    "title": "CB Consumer Confidence",
+    "country": "USD",
+    "date": "2025-11-25T10:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "93.4",
+    "previous": "94.6"
+  },
+  {
     "title": "Pending Home Sales m/m",
     "country": "USD",
     "date": "2025-11-25T10:00:00-05:00",
     "impact": "Medium",
     "forecast": "0.5%",
     "previous": "0.0%"
-  },
-  {
-    "title": "Richmond Manufacturing Index",
-    "country": "USD",
-    "date": "2025-11-25T10:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "-5",
-    "previous": "-4"
   },
   {
     "title": "Business Inventories m/m",
@@ -288,19 +296,11 @@
     "previous": "43.8"
   },
   {
-    "title": "CB Consumer Confidence",
-    "country": "USD",
-    "date": "2025-11-26T10:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "93.4",
-    "previous": "94.6"
-  },
-  {
     "title": "Crude Oil Inventories",
     "country": "USD",
     "date": "2025-11-26T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "-1.0M",
+    "forecast": "-1.3M",
     "previous": "-3.4M"
   },
   {
