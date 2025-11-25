@@ -152,14 +152,6 @@
     "previous": "0.2%"
   },
   {
-    "title": "Federal Budget Balance",
-    "country": "USD",
-    "date": "2025-11-25T14:03:00-05:00",
-    "impact": "Low",
-    "forecast": "-223.4B",
-    "previous": "198.0B"
-  },
-  {
     "title": "API Weekly Statistical Bulletin",
     "country": "USD",
     "date": "2025-11-25T16:30:00-05:00",
@@ -334,6 +326,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Federal Budget Balance",
+    "country": "USD",
+    "date": "2025-11-26T14:03:00-05:00",
+    "impact": "Low",
+    "forecast": "-223.4B",
+    "previous": "198.0B"
   },
   {
     "title": "RBNZ Gov Hawkesby Speaks",
