@@ -112,14 +112,6 @@
     "previous": "52.1"
   },
   {
-    "title": "Manufacturing PMI",
-    "country": "CHF",
-    "date": "2025-12-01T03:30:00-05:00",
-    "impact": "Low",
-    "forecast": "49.0",
-    "previous": "48.2"
-  },
-  {
     "title": "Italian Manufacturing PMI",
     "country": "EUR",
     "date": "2025-12-01T03:45:00-05:00",
@@ -630,6 +622,14 @@
     "impact": "Low",
     "forecast": "3.0%",
     "previous": "3.0%"
+  },
+  {
+    "title": "Manufacturing PMI",
+    "country": "CHF",
+    "date": "2025-12-04T03:30:00-05:00",
+    "impact": "Low",
+    "forecast": "49.0",
+    "previous": "48.2"
   },
   {
     "title": "Construction PMI",
