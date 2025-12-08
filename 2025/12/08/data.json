@@ -248,6 +248,14 @@
     "previous": ""
   },
   {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "date": "2025-12-09T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.3%",
+    "previous": "-0.5%"
+  },
+  {
     "title": "10-y Bond Auction",
     "country": "USD",
     "date": "2025-12-09T13:01:00-05:00",
@@ -688,19 +696,19 @@
     "previous": ""
   },
   {
-    "title": "FOMC Member Goolsbee Speaks",
-    "country": "USD",
-    "date": "2025-12-12T09:35:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "CB Leading Index m/m",
     "country": "AUD",
     "date": "2025-12-12T10:30:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "0.0%"
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2025-12-12T10:35:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   }
 ]
