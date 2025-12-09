@@ -202,7 +202,7 @@
   {
     "title": "ADP Weekly Employment Change",
     "country": "USD",
-    "date": "2025-12-09T08:20:00-05:00",
+    "date": "2025-12-09T08:15:00-05:00",
     "impact": "High",
     "forecast": "",
     "previous": "-13.5K"
@@ -356,7 +356,7 @@
     "country": "USD",
     "date": "2025-12-10T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.2M",
     "previous": "0.6M"
   },
   {
