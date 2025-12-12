@@ -640,6 +640,22 @@
     "previous": "-0.1%"
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2025-12-12T04:05:00-05:00",
+    "impact": "Low",
+    "forecast": "8.2%",
+    "previous": "8.2%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2025-12-12T04:05:00-05:00",
+    "impact": "Low",
+    "forecast": "445B",
+    "previous": "220B"
+  },
+  {
     "title": "Consumer Inflation Expectations",
     "country": "GBP",
     "date": "2025-12-12T04:30:00-05:00",
