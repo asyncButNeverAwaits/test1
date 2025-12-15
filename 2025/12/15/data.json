@@ -264,14 +264,6 @@
     "previous": "12.8%"
   },
   {
-    "title": "Mid-Year Economic and Fiscal Outlook",
-    "country": "AUD",
-    "date": "2025-12-15T19:03:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Flash Manufacturing PMI",
     "country": "JPY",
     "date": "2025-12-15T19:30:00-05:00",
@@ -534,6 +526,14 @@
     "impact": "Low",
     "forecast": "-0.20T",
     "previous": "0.00T"
+  },
+  {
+    "title": "Mid-Year Economic and Fiscal Outlook",
+    "country": "AUD",
+    "date": "2025-12-16T19:03:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "CPI y/y",
@@ -958,6 +958,14 @@
     "impact": "Low",
     "forecast": "0.0%",
     "previous": "-0.4%"
+  },
+  {
+    "title": "FOMC Member Williams Speaks",
+    "country": "USD",
+    "date": "2025-12-19T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Belgian NBB Business Climate",
