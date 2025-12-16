@@ -394,7 +394,7 @@
   {
     "title": "ADP Weekly Employment Change",
     "country": "USD",
-    "date": "2025-12-16T08:20:00-05:00",
+    "date": "2025-12-16T08:15:00-05:00",
     "impact": "High",
     "forecast": "",
     "previous": "4.8K"
@@ -402,10 +402,26 @@
   {
     "title": "Average Hourly Earnings m/m",
     "country": "USD",
+    "date": "2025-12-16T08:29:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.2%"
+  },
+  {
+    "title": "Non-Farm Employment Change",
+    "country": "USD",
+    "date": "2025-12-16T08:29:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "119K"
+  },
+  {
+    "title": "Average Hourly Earnings m/m",
+    "country": "USD",
     "date": "2025-12-16T08:30:00-05:00",
     "impact": "High",
     "forecast": "0.3%",
-    "previous": "0.2%"
+    "previous": "0.4%"
   },
   {
     "title": "Core Retail Sales m/m",
@@ -421,7 +437,7 @@
     "date": "2025-12-16T08:30:00-05:00",
     "impact": "High",
     "forecast": "51K",
-    "previous": "119K"
+    "previous": "-105K"
   },
   {
     "title": "Retail Sales m/m",
