@@ -248,22 +248,6 @@
     "previous": "224K"
   },
   {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "date": "2025-12-24T10:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-1.3M"
-  },
-  {
-    "title": "Natural Gas Storage",
-    "country": "USD",
-    "date": "2025-12-24T12:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-167B"
-  },
-  {
     "title": "Bank Holiday",
     "country": "NZD",
     "date": "2025-12-24T15:00:00-05:00",
