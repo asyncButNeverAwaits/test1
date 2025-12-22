@@ -92,7 +92,7 @@
     "country": "EUR",
     "date": "2025-12-23T02:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.2%"
   },
   {
@@ -124,7 +124,7 @@
     "country": "USD",
     "date": "2025-12-23T08:30:00-05:00",
     "impact": "High",
-    "forecast": "3.2%",
+    "forecast": "3.3%",
     "previous": "3.8%"
   },
   {
@@ -132,7 +132,7 @@
     "country": "USD",
     "date": "2025-12-23T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "-1.4%",
+    "forecast": "0.3%",
     "previous": "0.6%"
   },
   {
@@ -140,7 +140,7 @@
     "country": "USD",
     "date": "2025-12-23T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "0.2%",
+    "forecast": "-1.5%",
     "previous": "0.5%"
   },
   {
@@ -148,7 +148,7 @@
     "country": "USD",
     "date": "2025-12-23T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "2.6%",
+    "forecast": "2.7%",
     "previous": "2.1%"
   },
   {
@@ -196,7 +196,7 @@
     "country": "USD",
     "date": "2025-12-23T10:00:00-05:00",
     "impact": "Medium",
-    "forecast": "-7",
+    "forecast": "-8",
     "previous": "-15"
   },
   {
@@ -228,7 +228,7 @@
     "country": "JPY",
     "date": "2025-12-23T18:50:00-05:00",
     "impact": "Low",
-    "forecast": "2.6%",
+    "forecast": "2.7%",
     "previous": "2.7%"
   },
   {
@@ -244,7 +244,7 @@
     "country": "USD",
     "date": "2025-12-24T08:30:00-05:00",
     "impact": "High",
-    "forecast": "220K",
+    "forecast": "223K",
     "previous": "224K"
   },
   {
@@ -276,7 +276,7 @@
     "country": "JPY",
     "date": "2025-12-25T00:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.7%",
+    "forecast": "0.4%",
     "previous": "3.2%"
   },
   {
@@ -380,7 +380,7 @@
     "country": "JPY",
     "date": "2025-12-25T18:50:00-05:00",
     "impact": "Low",
-    "forecast": "1.0%",
+    "forecast": "0.9%",
     "previous": "1.7%"
   },
   {
