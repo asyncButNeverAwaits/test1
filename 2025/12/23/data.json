@@ -244,7 +244,7 @@
     "country": "USD",
     "date": "2025-12-24T08:30:00-05:00",
     "impact": "High",
-    "forecast": "223K",
+    "forecast": "224K",
     "previous": "224K"
   },
   {
@@ -276,7 +276,7 @@
     "country": "JPY",
     "date": "2025-12-25T00:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.4%",
+    "forecast": "0.2%",
     "previous": "3.2%"
   },
   {
