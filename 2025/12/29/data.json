@@ -26,7 +26,7 @@
   {
     "title": "Crude Oil Inventories",
     "country": "USD",
-    "date": "2025-12-29T17:03:00-05:00",
+    "date": "2025-12-29T17:00:00-05:00",
     "impact": "Low",
     "forecast": "-2.0M",
     "previous": "-1.3M"
@@ -44,7 +44,7 @@
     "country": "EUR",
     "date": "2025-12-30T03:00:00-05:00",
     "impact": "Low",
-    "forecast": "2.9%",
+    "forecast": "2.8%",
     "previous": "3.0%"
   },
   {
@@ -68,7 +68,7 @@
     "country": "USD",
     "date": "2025-12-30T09:45:00-05:00",
     "impact": "Low",
-    "forecast": "39.6",
+    "forecast": "39.8",
     "previous": "36.3"
   },
   {
@@ -100,7 +100,7 @@
     "country": "CNY",
     "date": "2025-12-30T20:30:00-05:00",
     "impact": "Medium",
-    "forecast": "49.4",
+    "forecast": "49.2",
     "previous": "49.2"
   },
   {
@@ -108,7 +108,7 @@
     "country": "CNY",
     "date": "2025-12-30T20:30:00-05:00",
     "impact": "Low",
-    "forecast": "49.8",
+    "forecast": "49.6",
     "previous": "49.5"
   },
   {
@@ -116,7 +116,7 @@
     "country": "CNY",
     "date": "2025-12-30T20:45:00-05:00",
     "impact": "Low",
-    "forecast": "49.7",
+    "forecast": "49.8",
     "previous": "49.9"
   },
   {
@@ -132,7 +132,7 @@
     "country": "USD",
     "date": "2025-12-31T08:30:00-05:00",
     "impact": "High",
-    "forecast": "215K",
+    "forecast": "217K",
     "previous": "214K"
   },
   {
@@ -292,7 +292,7 @@
     "country": "EUR",
     "date": "2026-01-02T03:45:00-05:00",
     "impact": "Low",
-    "forecast": "50.1",
+    "forecast": "50.0",
     "previous": "50.6"
   },
   {
