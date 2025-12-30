@@ -132,7 +132,7 @@
     "country": "USD",
     "date": "2025-12-31T08:30:00-05:00",
     "impact": "High",
-    "forecast": "217K",
+    "forecast": "219K",
     "previous": "214K"
   },
   {
@@ -140,7 +140,7 @@
     "country": "USD",
     "date": "2025-12-31T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "-1.0M",
+    "forecast": "0.5M",
     "previous": "0.4M"
   },
   {
@@ -148,7 +148,7 @@
     "country": "USD",
     "date": "2025-12-31T12:00:00-05:00",
     "impact": "Low",
-    "forecast": "-50B",
+    "forecast": "-51B",
     "previous": "-166B"
   },
   {
