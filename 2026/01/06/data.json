@@ -332,7 +332,7 @@
     "country": "USD",
     "date": "2026-01-07T08:15:00-05:00",
     "impact": "High",
-    "forecast": "50K",
+    "forecast": "51K",
     "previous": "-32K"
   },
   {
@@ -356,7 +356,7 @@
     "country": "USD",
     "date": "2026-01-07T10:00:00-05:00",
     "impact": "High",
-    "forecast": "7.64M",
+    "forecast": "7.62M",
     "previous": "7.67M"
   },
   {
@@ -372,7 +372,7 @@
     "country": "USD",
     "date": "2026-01-07T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.3M",
     "previous": "-1.9M"
   },
   {
