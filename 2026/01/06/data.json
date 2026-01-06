@@ -332,7 +332,7 @@
     "country": "USD",
     "date": "2026-01-07T08:15:00-05:00",
     "impact": "High",
-    "forecast": "51K",
+    "forecast": "49K",
     "previous": "-32K"
   },
   {
@@ -356,7 +356,7 @@
     "country": "USD",
     "date": "2026-01-07T10:00:00-05:00",
     "impact": "High",
-    "forecast": "7.62M",
+    "forecast": "7.61M",
     "previous": "7.67M"
   },
   {
@@ -364,7 +364,7 @@
     "country": "USD",
     "date": "2026-01-07T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "-1.2%",
+    "forecast": "-1.1%",
     "previous": "0.2%"
   },
   {
@@ -372,7 +372,7 @@
     "country": "USD",
     "date": "2026-01-07T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "-0.3M",
+    "forecast": "-1.2M",
     "previous": "-1.9M"
   },
   {
@@ -396,7 +396,7 @@
     "country": "AUD",
     "date": "2026-01-07T19:30:00-05:00",
     "impact": "Low",
-    "forecast": "5.16B",
+    "forecast": "5.14B",
     "previous": "4.39B"
   },
   {
@@ -500,7 +500,7 @@
     "country": "CAD",
     "date": "2026-01-08T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-1.5B",
+    "forecast": "-1.4B",
     "previous": "0.2B"
   },
   {
@@ -508,7 +508,7 @@
     "country": "USD",
     "date": "2026-01-08T08:30:00-05:00",
     "impact": "High",
-    "forecast": "211K",
+    "forecast": "213K",
     "previous": "199K"
   },
   {
@@ -524,7 +524,7 @@
     "country": "USD",
     "date": "2026-01-08T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "1.6%"
   },
   {
@@ -548,7 +548,7 @@
     "country": "USD",
     "date": "2026-01-08T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-109B",
     "previous": "-38B"
   },
   {
@@ -580,7 +580,7 @@
     "country": "CNY",
     "date": "2026-01-08T20:30:00-05:00",
     "impact": "Medium",
-    "forecast": "-2.1%",
+    "forecast": "-2.0%",
     "previous": "-2.2%"
   },
   {
@@ -692,7 +692,7 @@
     "country": "USD",
     "date": "2026-01-09T08:30:00-05:00",
     "impact": "High",
-    "forecast": "62K",
+    "forecast": "66K",
     "previous": "64K"
   },
   {
@@ -734,6 +734,14 @@
     "impact": "High",
     "forecast": "",
     "previous": "4.1%"
+  },
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "date": "2026-01-09T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "FOMC Member Barkin Speaks",
