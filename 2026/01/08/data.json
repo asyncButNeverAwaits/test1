@@ -456,6 +456,14 @@
     "previous": "6.0%"
   },
   {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-01-08T04:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.38|2.3"
+  },
+  {
     "title": "PPI m/m",
     "country": "EUR",
     "date": "2026-01-08T05:00:00-05:00",
@@ -472,17 +480,9 @@
     "previous": "6.4%"
   },
   {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-01-08T05:18:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.38|2.3"
-  },
-  {
     "title": "Challenger Job Cuts y/y",
     "country": "USD",
-    "date": "2026-01-08T07:30:00-05:00",
+    "date": "2026-01-08T05:30:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "23.5%"
