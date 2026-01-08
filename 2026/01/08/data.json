@@ -488,6 +488,14 @@
     "previous": "23.5%"
   },
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-01-08T08:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Trade Balance",
     "country": "CAD",
     "date": "2026-01-08T08:30:00-05:00",
@@ -534,6 +542,14 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.5%"
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-01-08T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Natural Gas Storage",
