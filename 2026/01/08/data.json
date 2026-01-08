@@ -664,22 +664,6 @@
     "previous": "0.0%"
   },
   {
-    "title": "Building Permits",
-    "country": "USD",
-    "date": "2026-01-09T08:29:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.31M"
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "date": "2026-01-09T08:29:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.31M"
-  },
-  {
     "title": "Employment Change",
     "country": "CAD",
     "date": "2026-01-09T08:30:00-05:00",
@@ -734,6 +718,22 @@
     "impact": "Low",
     "forecast": "1.33M",
     "previous": ""
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "date": "2026-01-09T08:33:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.31M"
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-01-09T08:33:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.31M"
   },
   {
     "title": "Prelim UoM Consumer Sentiment",
