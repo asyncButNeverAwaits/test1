@@ -132,7 +132,7 @@
     "country": "CNY",
     "date": "2026-01-13T04:03:00-05:00",
     "impact": "Low",
-    "forecast": "450B",
+    "forecast": "820B",
     "previous": "390B"
   },
   {
@@ -148,7 +148,7 @@
     "country": "USD",
     "date": "2026-01-13T06:00:00-05:00",
     "impact": "Low",
-    "forecast": "99.6",
+    "forecast": "99.5",
     "previous": "99.0"
   },
   {
@@ -196,7 +196,7 @@
     "country": "USD",
     "date": "2026-01-13T10:00:00-05:00",
     "impact": "Medium",
-    "forecast": "715K",
+    "forecast": "716K",
     "previous": ""
   },
   {
@@ -284,7 +284,7 @@
     "country": "CNY",
     "date": "2026-01-13T22:03:00-05:00",
     "impact": "Low",
-    "forecast": "820B",
+    "forecast": "805B",
     "previous": "793B"
   },
   {
@@ -292,7 +292,7 @@
     "country": "CNY",
     "date": "2026-01-13T22:04:00-05:00",
     "impact": "Low",
-    "forecast": "114.2B",
+    "forecast": "114.3B",
     "previous": "111.7B"
   },
   {
@@ -348,7 +348,7 @@
     "country": "USD",
     "date": "2026-01-14T08:30:00-05:00",
     "impact": "High",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": ""
   },
   {
@@ -364,7 +364,7 @@
     "country": "USD",
     "date": "2026-01-14T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-240B",
+    "forecast": "-238B",
     "previous": "-251B"
   },
   {
@@ -396,7 +396,7 @@
     "country": "USD",
     "date": "2026-01-14T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "0.2%"
   },
   {
@@ -628,7 +628,7 @@
     "country": "USD",
     "date": "2026-01-15T08:30:00-05:00",
     "impact": "High",
-    "forecast": "216K",
+    "forecast": "215K",
     "previous": "208K"
   },
   {
@@ -636,7 +636,7 @@
     "country": "USD",
     "date": "2026-01-15T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "1.1",
+    "forecast": "0.8",
     "previous": "-3.9"
   },
   {
@@ -644,7 +644,7 @@
     "country": "USD",
     "date": "2026-01-15T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "-1.8",
+    "forecast": "-1.6",
     "previous": "-10.2"
   },
   {
@@ -652,7 +652,7 @@
     "country": "USD",
     "date": "2026-01-15T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-0.2%",
+    "forecast": "-0.1%",
     "previous": ""
   },
   {
@@ -708,7 +708,7 @@
     "country": "USD",
     "date": "2026-01-15T16:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "48.7B",
     "previous": "17.5B"
   },
   {
@@ -748,7 +748,7 @@
     "country": "CAD",
     "date": "2026-01-16T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "24.61B",
     "previous": "46.62B"
   },
   {
