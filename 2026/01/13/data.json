@@ -170,10 +170,18 @@
   {
     "title": "New Home Sales",
     "country": "USD",
+    "date": "2026-01-13T09:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "800K"
+  },
+  {
+    "title": "New Home Sales",
+    "country": "USD",
     "date": "2026-01-13T10:00:00-05:00",
     "impact": "Medium",
     "forecast": "716K",
-    "previous": ""
+    "previous": "738K"
   },
   {
     "title": "FOMC Member Musalem Speaks",
@@ -184,17 +192,9 @@
     "previous": ""
   },
   {
-    "title": "New Home Sales",
-    "country": "USD",
-    "date": "2026-01-13T10:07:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "800K"
-  },
-  {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
-    "date": "2026-01-13T10:10:00-05:00",
+    "date": "2026-01-13T10:03:00-05:00",
     "impact": "Low",
     "forecast": "48.2",
     "previous": "47.9"
