@@ -220,7 +220,7 @@
     "country": "USD",
     "date": "2026-01-13T14:00:00-05:00",
     "impact": "Low",
-    "forecast": "-140.7B",
+    "forecast": "-144.5B",
     "previous": "-173.3B"
   },
   {
@@ -364,7 +364,7 @@
     "country": "USD",
     "date": "2026-01-14T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-238B",
+    "forecast": "-235B",
     "previous": "-251B"
   },
   {
@@ -396,7 +396,7 @@
     "country": "USD",
     "date": "2026-01-14T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.2%"
   },
   {
@@ -428,7 +428,7 @@
     "country": "USD",
     "date": "2026-01-14T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.7M",
     "previous": "-3.8M"
   },
   {
@@ -532,7 +532,7 @@
     "country": "GBP",
     "date": "2026-01-15T02:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "1.1%"
   },
   {
@@ -684,7 +684,7 @@
     "country": "USD",
     "date": "2026-01-15T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-89B",
     "previous": "-119B"
   },
   {
