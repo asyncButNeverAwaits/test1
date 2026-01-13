@@ -120,14 +120,6 @@
     "previous": "-136.2B"
   },
   {
-    "title": "BOE Gov Bailey Speaks",
-    "country": "GBP",
-    "date": "2026-01-13T05:00:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "NFIB Small Business Index",
     "country": "USD",
     "date": "2026-01-13T06:00:00-05:00",
@@ -734,6 +726,14 @@
     "impact": "Low",
     "forecast": "0.0%",
     "previous": "0.0%"
+  },
+  {
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "date": "2026-01-16T05:00:00-05:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Housing Starts",
