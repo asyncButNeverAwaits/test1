@@ -572,7 +572,7 @@
     "country": "EUR",
     "date": "2026-01-15T04:00:00-05:00",
     "impact": "Low",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "-1.0%"
   },
   {
@@ -596,7 +596,7 @@
     "country": "EUR",
     "date": "2026-01-15T05:00:00-05:00",
     "impact": "Low",
-    "forecast": "15.2B",
+    "forecast": "14.8B",
     "previous": "14.0B"
   },
   {
@@ -748,7 +748,7 @@
     "country": "CAD",
     "date": "2026-01-16T08:15:00-05:00",
     "impact": "Low",
-    "forecast": "258K",
+    "forecast": "257K",
     "previous": "254K"
   },
   {
