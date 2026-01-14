@@ -296,22 +296,6 @@
     "previous": ""
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-01-14T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "8.0%",
-    "previous": "8.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-01-14T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "820B",
-    "previous": "390B"
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
     "date": "2026-01-14T05:33:00-05:00",
@@ -574,6 +558,22 @@
     "impact": "Low",
     "forecast": "0.6%",
     "previous": "-1.0%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-01-15T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "8.0%",
+    "previous": "8.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-01-15T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "820B",
+    "previous": "390B"
   },
   {
     "title": "BOE Credit Conditions Survey",
