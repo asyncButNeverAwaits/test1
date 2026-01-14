@@ -266,7 +266,7 @@
   {
     "title": "Trade Balance",
     "country": "CNY",
-    "date": "2026-01-13T22:15:00-05:00",
+    "date": "2026-01-13T21:24:00-05:00",
     "impact": "Low",
     "forecast": "805B",
     "previous": "793B"
@@ -274,7 +274,7 @@
   {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
-    "date": "2026-01-13T22:16:00-05:00",
+    "date": "2026-01-13T21:24:00-05:00",
     "impact": "Low",
     "forecast": "114.3B",
     "previous": "111.7B"
