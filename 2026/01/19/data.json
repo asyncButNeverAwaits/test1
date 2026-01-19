@@ -96,14 +96,6 @@
     "previous": "0.9%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-01-19T02:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-7.5%"
-  },
-  {
     "title": "WEF Annual Meetings",
     "country": "All",
     "date": "2026-01-19T04:15:00-05:00",
@@ -246,6 +238,14 @@
     "impact": "Low",
     "forecast": "5.0%",
     "previous": "5.1%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-01-20T02:02:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-7.5%"
   },
   {
     "title": "PPI m/m",
