@@ -306,7 +306,7 @@
   {
     "title": "GDT Price Index",
     "country": "NZD",
-    "date": "2026-01-20T10:50:00-05:00",
+    "date": "2026-01-20T09:43:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "6.3%"
@@ -374,14 +374,6 @@
     "impact": "Low",
     "forecast": "4.1%",
     "previous": "3.8%"
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-01-21T02:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-7.5%"
   },
   {
     "title": "ECB President Lagarde Speaks",
@@ -534,6 +526,14 @@
     "impact": "Low",
     "forecast": "13.4B",
     "previous": "11.7B"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-01-22T02:02:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-7.5%"
   },
   {
     "title": "WEF Annual Meetings",
