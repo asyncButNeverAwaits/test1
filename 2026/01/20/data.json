@@ -328,6 +328,14 @@
     "previous": ""
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-01-20T13:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "MI Leading Index m/m",
     "country": "AUD",
     "date": "2026-01-20T18:30:00-05:00",
@@ -660,7 +668,7 @@
     "country": "USD",
     "date": "2026-01-22T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-82B",
     "previous": "-71B"
   },
   {
@@ -668,7 +676,7 @@
     "country": "USD",
     "date": "2026-01-22T12:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-2.5M",
     "previous": "3.4M"
   },
   {
