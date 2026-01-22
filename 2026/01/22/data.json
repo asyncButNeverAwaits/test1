@@ -780,7 +780,7 @@
     "country": "EUR",
     "date": "2026-01-23T03:15:00-05:00",
     "impact": "Medium",
-    "forecast": "50.3",
+    "forecast": "50.4",
     "previous": "50.6"
   },
   {
@@ -804,7 +804,7 @@
     "country": "EUR",
     "date": "2026-01-23T03:30:00-05:00",
     "impact": "High",
-    "forecast": "52.7",
+    "forecast": "52.6",
     "previous": "52.6"
   },
   {
