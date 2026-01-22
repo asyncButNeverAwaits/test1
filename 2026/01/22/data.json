@@ -608,6 +608,30 @@
     "previous": "3.8%"
   },
   {
+    "title": "Core PCE Price Index m/m",
+    "country": "USD",
+    "date": "2026-01-22T09:59:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.2%"
+  },
+  {
+    "title": "Personal Income m/m",
+    "country": "USD",
+    "date": "2026-01-22T09:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.4%"
+  },
+  {
+    "title": "Personal Spending m/m",
+    "country": "USD",
+    "date": "2026-01-22T09:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.3%"
+  },
+  {
     "title": "Consumer Confidence",
     "country": "EUR",
     "date": "2026-01-22T10:00:00-05:00",
@@ -621,7 +645,7 @@
     "date": "2026-01-22T10:00:00-05:00",
     "impact": "High",
     "forecast": "0.2%",
-    "previous": ""
+    "previous": "0.2%"
   },
   {
     "title": "Personal Income m/m",
@@ -629,7 +653,7 @@
     "date": "2026-01-22T10:00:00-05:00",
     "impact": "Low",
     "forecast": "0.4%",
-    "previous": ""
+    "previous": "0.1%"
   },
   {
     "title": "Personal Spending m/m",
@@ -637,31 +661,7 @@
     "date": "2026-01-22T10:00:00-05:00",
     "impact": "Low",
     "forecast": "0.5%",
-    "previous": ""
-  },
-  {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2026-01-22T10:10:00-05:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.2%"
-  },
-  {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2026-01-22T10:10:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.4%"
-  },
-  {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2026-01-22T10:10:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.3%"
+    "previous": "0.5%"
   },
   {
     "title": "Natural Gas Storage",
