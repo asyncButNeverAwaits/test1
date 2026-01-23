@@ -856,6 +856,14 @@
     "previous": ""
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-01-23T07:11:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-7.5%"
+  },
+  {
     "title": "Core Retail Sales m/m",
     "country": "CAD",
     "date": "2026-01-23T08:30:00-05:00",
@@ -906,7 +914,7 @@
   {
     "title": "CB Leading Index m/m",
     "country": "USD",
-    "date": "2026-01-23T10:03:00-05:00",
+    "date": "2026-01-23T11:20:00-05:00",
     "impact": "Low",
     "forecast": "-0.2%",
     "previous": ""
