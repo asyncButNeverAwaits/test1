@@ -728,9 +728,17 @@
     "previous": "49.7"
   },
   {
+    "title": "BOJ Outlook Report",
+    "country": "JPY",
+    "date": "2026-01-22T22:07:00-05:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "BOJ Policy Rate",
     "country": "JPY",
-    "date": "2026-01-22T22:30:00-05:00",
+    "date": "2026-01-22T22:07:00-05:00",
     "impact": "High",
     "forecast": "<0.75%",
     "previous": "<0.75%"
@@ -738,15 +746,7 @@
   {
     "title": "Monetary Policy Statement",
     "country": "JPY",
-    "date": "2026-01-22T22:30:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "BOJ Outlook Report",
-    "country": "JPY",
-    "date": "2026-01-22T22:31:00-05:00",
+    "date": "2026-01-22T22:07:00-05:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
