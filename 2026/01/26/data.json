@@ -112,14 +112,6 @@
     "previous": "8.0K"
   },
   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-01-27T08:30:00-05:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "HPI m/m",
     "country": "USD",
     "date": "2026-01-27T09:00:00-05:00",
@@ -156,6 +148,14 @@
     "country": "EUR",
     "date": "2026-01-27T12:00:00-05:00",
     "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-01-27T14:00:00-05:00",
+    "impact": "Medium",
     "forecast": "",
     "previous": ""
   },
@@ -300,7 +300,7 @@
     "country": "NZD",
     "date": "2026-01-28T16:45:00-05:00",
     "impact": "Low",
-    "forecast": "40M",
+    "forecast": "30M",
     "previous": "-163M"
   },
   {
