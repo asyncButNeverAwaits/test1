@@ -60,7 +60,7 @@
     "country": "JPY",
     "date": "2026-01-26T18:50:00-05:00",
     "impact": "Low",
-    "forecast": "2.5%",
+    "forecast": "2.7%",
     "previous": "2.7%"
   },
   {
@@ -100,7 +100,7 @@
     "country": "EUR",
     "date": "2026-01-27T03:00:00-05:00",
     "impact": "Low",
-    "forecast": "10.6%",
+    "forecast": "10.2%",
     "previous": "10.5%"
   },
   {
@@ -140,7 +140,7 @@
     "country": "USD",
     "date": "2026-01-27T10:00:00-05:00",
     "impact": "Medium",
-    "forecast": "90.1",
+    "forecast": "90.6",
     "previous": "89.1"
   },
   {
@@ -180,7 +180,7 @@
     "country": "AUD",
     "date": "2026-01-27T19:30:00-05:00",
     "impact": "High",
-    "forecast": "0.1%",
+    "forecast": "0.7%",
     "previous": "0.0%"
   },
   {
@@ -196,7 +196,7 @@
     "country": "AUD",
     "date": "2026-01-27T19:30:00-05:00",
     "impact": "High",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.3%"
   },
   {
