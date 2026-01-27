@@ -204,7 +204,7 @@
     "country": "EUR",
     "date": "2026-01-28T02:00:00-05:00",
     "impact": "Low",
-    "forecast": "-25.7",
+    "forecast": "-25.5",
     "previous": "-26.9"
   },
   {
@@ -268,7 +268,7 @@
     "country": "USD",
     "date": "2026-01-28T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.2M",
     "previous": "3.6M"
   },
   {
@@ -643,6 +643,14 @@
     "title": "FOMC Member Musalem Speaks",
     "country": "USD",
     "date": "2026-01-30T12:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-01-30T17:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
