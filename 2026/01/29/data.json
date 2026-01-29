@@ -360,6 +360,14 @@
     "previous": "200K"
   },
   {
+    "title": "Goods Trade Balance",
+    "country": "USD",
+    "date": "2026-01-29T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-59.1B"
+  },
+  {
     "title": "Revised Nonfarm Productivity q/q",
     "country": "USD",
     "date": "2026-01-29T08:30:00-05:00",
@@ -534,14 +542,6 @@
     "impact": "Low",
     "forecast": "0.6%",
     "previous": "0.6%"
-  },
-  {
-    "title": "Trade Balance",
-    "country": "CHF",
-    "date": "2026-01-30T03:15:00-05:00",
-    "impact": "Low",
-    "forecast": "4.85B",
-    "previous": "3.84B"
   },
   {
     "title": "German Unemployment Change",
