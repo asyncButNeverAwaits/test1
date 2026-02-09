@@ -96,9 +96,25 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-02-09T14:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "FOMC Member Bostic Speaks",
     "country": "USD",
     "date": "2026-02-09T15:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-02-09T17:00:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -336,6 +352,22 @@
     "previous": "4.4%"
   },
   {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-02-11T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-02-11T10:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Crude Oil Inventories",
     "country": "USD",
     "date": "2026-02-11T10:30:00-05:00",
@@ -366,6 +398,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": "-144.7B"
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-02-11T16:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "PPI y/y",
