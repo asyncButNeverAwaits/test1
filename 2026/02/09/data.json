@@ -540,7 +540,7 @@
     "country": "USD",
     "date": "2026-02-12T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "4.22M",
+    "forecast": "4.16M",
     "previous": "4.35M"
   },
   {
@@ -549,7 +549,7 @@
     "date": "2026-02-12T10:00:00-05:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.99%"
   },
   {
     "title": "CB Leading Index m/m",
@@ -668,7 +668,7 @@
     "country": "EUR",
     "date": "2026-02-13T05:00:00-05:00",
     "impact": "Low",
-    "forecast": "10.2B",
+    "forecast": "11.8B",
     "previous": "10.7B"
   },
   {
