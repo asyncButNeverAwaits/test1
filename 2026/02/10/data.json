@@ -176,22 +176,6 @@
     "previous": "10.6%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-02-10T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "8.3%",
-    "previous": "8.5%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-02-10T04:03:00-05:00",
-    "impact": "Low",
-    "forecast": "5000B",
-    "previous": "910B"
-  },
-  {
     "title": "NFIB Small Business Index",
     "country": "USD",
     "date": "2026-02-10T06:00:00-05:00",
@@ -318,6 +302,22 @@
     "impact": "Low",
     "forecast": "-0.6%",
     "previous": "1.5%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-02-11T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "8.3%",
+    "previous": "8.5%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-02-11T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "5000B",
+    "previous": "910B"
   },
   {
     "title": "German 30-y Bond Auction",
