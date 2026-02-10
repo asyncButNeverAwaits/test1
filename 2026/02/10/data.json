@@ -332,7 +332,7 @@
     "country": "CAD",
     "date": "2026-02-11T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "5.0%",
+    "forecast": "4.9%",
     "previous": "-13.1%"
   },
   {
@@ -380,7 +380,7 @@
     "country": "USD",
     "date": "2026-02-11T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.2M",
     "previous": "-3.5M"
   },
   {
@@ -404,7 +404,7 @@
     "country": "USD",
     "date": "2026-02-11T14:00:00-05:00",
     "impact": "Low",
-    "forecast": "-92.3B",
+    "forecast": "-94.6B",
     "previous": "-144.7B"
   },
   {
@@ -564,7 +564,7 @@
     "country": "USD",
     "date": "2026-02-12T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-256B",
     "previous": "-360B"
   },
   {
