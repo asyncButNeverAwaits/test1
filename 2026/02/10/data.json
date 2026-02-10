@@ -248,6 +248,14 @@
     "previous": ""
   },
   {
+    "title": "MPC Member Mann Speaks",
+    "country": "GBP",
+    "date": "2026-02-10T16:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "API Weekly Statistical Bulletin",
     "country": "USD",
     "date": "2026-02-10T16:30:00-05:00",
@@ -286,14 +294,6 @@
     "impact": "Medium",
     "forecast": "-1.5%",
     "previous": "-1.9%"
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "date": "2026-02-10T23:59:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2"
   },
   {
     "title": "Italian Industrial Production m/m",
