@@ -528,14 +528,6 @@
     "previous": "4.35M"
   },
   {
-    "title": "Mortgage Delinquencies",
-    "country": "USD",
-    "date": "2026-02-12T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.99%"
-  },
-  {
     "title": "CB Leading Index m/m",
     "country": "AUD",
     "date": "2026-02-12T10:30:00-05:00",
@@ -702,6 +694,14 @@
     "impact": "High",
     "forecast": "2.5%",
     "previous": "2.7%"
+  },
+  {
+    "title": "Mortgage Delinquencies",
+    "country": "USD",
+    "date": "2026-02-13T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.99%"
   },
   {
     "title": "ECB President Lagarde Speaks",
