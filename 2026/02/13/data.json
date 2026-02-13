@@ -544,6 +544,14 @@
     "previous": "-360B"
   },
   {
+    "title": "Mortgage Delinquencies",
+    "country": "USD",
+    "date": "2026-02-12T12:40:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.99%"
+  },
+  {
     "title": "30-y Bond Auction",
     "country": "USD",
     "date": "2026-02-12T13:01:00-05:00",
@@ -694,14 +702,6 @@
     "impact": "High",
     "forecast": "2.5%",
     "previous": "2.7%"
-  },
-  {
-    "title": "Mortgage Delinquencies",
-    "country": "USD",
-    "date": "2026-02-13T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.99%"
   },
   {
     "title": "ECB President Lagarde Speaks",
