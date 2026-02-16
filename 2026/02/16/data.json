@@ -180,7 +180,7 @@
     "country": "GBP",
     "date": "2026-02-17T02:00:00-05:00",
     "impact": "Low",
-    "forecast": "5.1%",
+    "forecast": "5.2%",
     "previous": "5.1%"
   },
   {
@@ -196,7 +196,7 @@
     "country": "EUR",
     "date": "2026-02-17T05:00:00-05:00",
     "impact": "Low",
-    "forecast": "45.2",
+    "forecast": "45.7",
     "previous": "40.8"
   },
   {
@@ -204,7 +204,7 @@
     "country": "EUR",
     "date": "2026-02-17T05:00:00-05:00",
     "impact": "Low",
-    "forecast": "65.2",
+    "forecast": "65.8",
     "previous": "59.6"
   },
   {
@@ -252,7 +252,7 @@
     "country": "CAD",
     "date": "2026-02-17T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "2.8%",
+    "forecast": "2.7%",
     "previous": "2.8%"
   },
   {
@@ -268,7 +268,7 @@
     "country": "CAD",
     "date": "2026-02-17T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "14.27B",
     "previous": "16.33B"
   },
   {
@@ -276,7 +276,7 @@
     "country": "CAD",
     "date": "2026-02-17T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "1.9%",
+    "forecast": "2.0%",
     "previous": "-1.8%"
   },
   {
@@ -284,7 +284,7 @@
     "country": "USD",
     "date": "2026-02-17T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "8.5",
+    "forecast": "6.4",
     "previous": "7.7"
   },
   {
@@ -406,14 +406,6 @@
     "impact": "High",
     "forecast": "",
     "previous": ""
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "date": "2026-02-17T23:59:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2"
   },
   {
     "title": "CPI y/y",
@@ -614,6 +606,14 @@
     "impact": "High",
     "forecast": "4.2%",
     "previous": "4.1%"
+  },
+  {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "date": "2026-02-18T23:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2"
   },
   {
     "title": "Current Account",
@@ -827,7 +827,7 @@
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
     "date": "2026-02-19T19:00:00-05:00",
-    "impact": "Medium",
+    "impact": "Low",
     "forecast": "",
     "previous": ""
   },
