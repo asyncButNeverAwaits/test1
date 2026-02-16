@@ -560,6 +560,14 @@
     "previous": ""
   },
   {
+    "title": "RBNZ Gov Breman Speaks",
+    "country": "NZD",
+    "date": "2026-02-18T14:10:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "TIC Long-Term Purchases",
     "country": "USD",
     "date": "2026-02-18T16:00:00-05:00",
@@ -629,7 +637,7 @@
     "date": "2026-02-19T05:03:00-05:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.22|2.4"
   },
   {
     "title": "German Buba Monthly Report",
@@ -1058,7 +1066,7 @@
   {
     "title": "FOMC Member Logan Speaks",
     "country": "USD",
-    "date": "2026-02-20T13:15:00-05:00",
+    "date": "2026-02-20T12:45:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
