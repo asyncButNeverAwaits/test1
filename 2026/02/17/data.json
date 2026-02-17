@@ -332,7 +332,7 @@
     "country": "NZD",
     "date": "2026-02-17T16:45:00-05:00",
     "impact": "Low",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "0.2%"
   },
   {
@@ -340,7 +340,7 @@
     "country": "NZD",
     "date": "2026-02-17T16:45:00-05:00",
     "impact": "Low",
-    "forecast": "0.7%",
+    "forecast": "0.6%",
     "previous": "0.6%"
   },
   {
@@ -460,7 +460,7 @@
     "country": "GBP",
     "date": "2026-02-18T04:30:00-05:00",
     "impact": "Low",
-    "forecast": "1.9%",
+    "forecast": "1.8%",
     "previous": "2.5%"
   },
   {
@@ -484,7 +484,7 @@
     "country": "USD",
     "date": "2026-02-18T08:30:00-05:00",
     "impact": "Medium",
-    "forecast": "-1.7%",
+    "forecast": "-1.8%",
     "previous": "5.3%"
   },
   {
@@ -524,7 +524,7 @@
     "country": "USD",
     "date": "2026-02-18T09:15:00-05:00",
     "impact": "Low",
-    "forecast": "76.5%",
+    "forecast": "76.6%",
     "previous": "76.3%"
   },
   {
@@ -620,7 +620,7 @@
     "country": "EUR",
     "date": "2026-02-19T04:00:00-05:00",
     "impact": "Low",
-    "forecast": "9.2B",
+    "forecast": "9.8B",
     "previous": "8.6B"
   },
   {
@@ -676,7 +676,7 @@
     "country": "CAD",
     "date": "2026-02-19T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-2.0B",
+    "forecast": "-2.1B",
     "previous": "-2.2B"
   },
   {
@@ -708,7 +708,7 @@
     "country": "USD",
     "date": "2026-02-19T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-85.8B",
+    "forecast": "-86.0B",
     "previous": "-86.9B"
   },
   {
@@ -748,7 +748,7 @@
     "country": "USD",
     "date": "2026-02-19T10:00:00-05:00",
     "impact": "Medium",
-    "forecast": "1.6%",
+    "forecast": "1.4%",
     "previous": "-9.3%"
   },
   {
