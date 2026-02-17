@@ -218,7 +218,7 @@
   {
     "title": "ADP Weekly Employment Change",
     "country": "USD",
-    "date": "2026-02-17T08:20:00-05:00",
+    "date": "2026-02-17T08:15:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "6.5K"
@@ -256,14 +256,6 @@
     "previous": "2.8%"
   },
   {
-    "title": "Core CPI m/m",
-    "country": "CAD",
-    "date": "2026-02-17T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.4%"
-  },
-  {
     "title": "Foreign Securities Purchases",
     "country": "CAD",
     "date": "2026-02-17T08:30:00-05:00",
@@ -286,6 +278,14 @@
     "impact": "Medium",
     "forecast": "6.4",
     "previous": "7.7"
+  },
+  {
+    "title": "Core CPI m/m",
+    "country": "CAD",
+    "date": "2026-02-17T08:32:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.4%"
   },
   {
     "title": "Cleveland Fed Inflation Expectations",
