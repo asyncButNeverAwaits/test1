@@ -472,6 +472,22 @@
     "previous": "2.85|1.7"
   },
   {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-02-18T08:28:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.25M"
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "date": "2026-02-18T08:29:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.41M"
+  },
+  {
     "title": "Core Durable Goods Orders m/m",
     "country": "USD",
     "date": "2026-02-18T08:30:00-05:00",
@@ -493,7 +509,7 @@
     "date": "2026-02-18T08:30:00-05:00",
     "impact": "Low",
     "forecast": "1.40M",
-    "previous": ""
+    "previous": "1.39M"
   },
   {
     "title": "Housing Starts",
@@ -501,23 +517,7 @@
     "date": "2026-02-18T08:30:00-05:00",
     "impact": "Low",
     "forecast": "1.31M",
-    "previous": ""
-  },
-  {
-    "title": "Building Permits",
-    "country": "USD",
-    "date": "2026-02-18T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.41M"
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "date": "2026-02-18T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.25M"
+    "previous": "1.32M"
   },
   {
     "title": "Capacity Utilization Rate",
