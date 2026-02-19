@@ -728,14 +728,6 @@
     "previous": ""
   },
   {
-    "title": "Consumer Confidence",
-    "country": "EUR",
-    "date": "2026-02-19T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "-12",
-    "previous": "-12"
-  },
-  {
     "title": "Pending Home Sales m/m",
     "country": "USD",
     "date": "2026-02-19T10:00:00-05:00",
@@ -750,6 +742,14 @@
     "impact": "Low",
     "forecast": "-0.2%",
     "previous": "-0.3%"
+  },
+  {
+    "title": "Consumer Confidence",
+    "country": "EUR",
+    "date": "2026-02-19T10:10:00-05:00",
+    "impact": "Low",
+    "forecast": "-12",
+    "previous": "-12"
   },
   {
     "title": "FOMC Member Goolsbee Speaks",
