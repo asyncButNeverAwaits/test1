@@ -1034,10 +1034,18 @@
   {
     "title": "New Home Sales",
     "country": "USD",
+    "date": "2026-02-20T09:59:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "737K"
+  },
+  {
+    "title": "New Home Sales",
+    "country": "USD",
     "date": "2026-02-20T10:00:00-05:00",
     "impact": "Medium",
     "forecast": "732K",
-    "previous": ""
+    "previous": "758K"
   },
   {
     "title": "Revised UoM Consumer Sentiment",
@@ -1054,14 +1062,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.5%"
-  },
-  {
-    "title": "New Home Sales",
-    "country": "USD",
-    "date": "2026-02-20T10:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "737K"
   },
   {
     "title": "FOMC Member Logan Speaks",
