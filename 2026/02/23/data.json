@@ -216,6 +216,14 @@
     "previous": "0.2%"
   },
   {
+    "title": "SNB Chairman Schlegel Speaks",
+    "country": "CHF",
+    "date": "2026-02-24T12:30:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "FOMC Member Barkin Speaks",
     "country": "USD",
     "date": "2026-02-24T15:20:00-05:00",
@@ -252,7 +260,7 @@
     "country": "AUD",
     "date": "2026-02-24T19:30:00-05:00",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "1.0%"
   },
   {
@@ -268,7 +276,7 @@
     "country": "AUD",
     "date": "2026-02-24T19:30:00-05:00",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.2%"
   },
   {
