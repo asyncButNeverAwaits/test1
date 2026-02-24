@@ -484,7 +484,7 @@
     "country": "CAD",
     "date": "2026-02-26T08:30:00-05:00",
     "impact": "Low",
-    "forecast": "-8.1B",
+    "forecast": "-8.2B",
     "previous": "-9.7B"
   },
   {
@@ -524,7 +524,7 @@
     "country": "JPY",
     "date": "2026-02-26T18:50:00-05:00",
     "impact": "Low",
-    "forecast": "5.4%",
+    "forecast": "5.5%",
     "previous": "-0.1%"
   },
   {
@@ -532,7 +532,7 @@
     "country": "JPY",
     "date": "2026-02-26T18:50:00-05:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "-0.9%"
   },
   {
@@ -580,7 +580,7 @@
     "country": "EUR",
     "date": "2026-02-27T02:45:00-05:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.4%",
     "previous": "-0.6%"
   },
   {
@@ -676,7 +676,7 @@
     "country": "USD",
     "date": "2026-02-27T09:45:00-05:00",
     "impact": "Low",
-    "forecast": "52.3",
+    "forecast": "52.2",
     "previous": "54.0"
   },
   {
