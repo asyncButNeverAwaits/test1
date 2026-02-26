@@ -456,14 +456,6 @@
     "previous": ""
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-02-26T05:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-9.5%"
-  },
-  {
     "title": "Italian 10-y Bond Auction",
     "country": "EUR",
     "date": "2026-02-26T05:33:00-05:00",
@@ -638,6 +630,14 @@
     "impact": "Low",
     "forecast": "2K",
     "previous": "0K"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-02-27T05:02:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-9.5%"
   },
   {
     "title": "MPC Member Pill Speaks",
