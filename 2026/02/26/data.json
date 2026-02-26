@@ -556,7 +556,7 @@
     "country": "EUR",
     "date": "2026-02-27T02:29:00-05:00",
     "impact": "Medium",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "0.1%"
   },
   {
@@ -668,7 +668,7 @@
     "country": "USD",
     "date": "2026-02-27T09:45:00-05:00",
     "impact": "Low",
-    "forecast": "52.2",
+    "forecast": "52.0",
     "previous": "54.0"
   },
   {
