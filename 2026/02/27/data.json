@@ -666,17 +666,17 @@
   {
     "title": "Construction Spending m/m",
     "country": "USD",
-    "date": "2026-02-27T10:00:00-05:00",
+    "date": "2026-02-27T09:59:00-05:00",
     "impact": "Low",
-    "forecast": "0.2%",
-    "previous": ""
+    "forecast": "",
+    "previous": "0.5%"
   },
   {
     "title": "Construction Spending m/m",
     "country": "USD",
-    "date": "2026-02-27T10:10:00-05:00",
+    "date": "2026-02-27T10:00:00-05:00",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.5%"
+    "forecast": "0.2%",
+    "previous": "-0.2%"
   }
 ]
