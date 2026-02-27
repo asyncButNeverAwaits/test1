@@ -568,14 +568,6 @@
     "previous": "-0.6%"
   },
   {
-    "title": "French Final Private Payrolls q/q",
-    "country": "EUR",
-    "date": "2026-02-27T02:45:00-05:00",
-    "impact": "Low",
-    "forecast": "-0.1%",
-    "previous": "-0.1%"
-  },
-  {
     "title": "French Prelim CPI m/m",
     "country": "EUR",
     "date": "2026-02-27T02:45:00-05:00",
@@ -590,6 +582,14 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.2%"
+  },
+  {
+    "title": "French Final Private Payrolls q/q",
+    "country": "EUR",
+    "date": "2026-02-27T02:48:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.1%",
+    "previous": "-0.1%"
   },
   {
     "title": "GDP q/q",
