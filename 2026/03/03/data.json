@@ -386,10 +386,18 @@
   {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
-    "date": "2026-03-03T10:10:00-05:00",
+    "date": "2026-03-03T10:01:00-05:00",
     "impact": "Low",
     "forecast": "50.1",
     "previous": "48.8"
+  },
+  {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-03-03T10:10:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Wards Total Vehicle Sales",
@@ -402,7 +410,7 @@
   {
     "title": "GDT Price Index",
     "country": "NZD",
-    "date": "2026-03-03T10:59:00-05:00",
+    "date": "2026-03-03T10:26:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.6%"
