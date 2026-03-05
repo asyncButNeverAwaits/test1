@@ -696,6 +696,14 @@
     "previous": "46.4"
   },
   {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-03-05T04:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.45|2.4"
+  },
+  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "date": "2026-03-05T05:00:00-05:00",
@@ -710,14 +718,6 @@
     "impact": "Low",
     "forecast": "0.3%",
     "previous": "-0.5%"
-  },
-  {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-03-05T05:18:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.45|2.4"
   },
   {
     "title": "ECB Monetary Policy Meeting Accounts",
