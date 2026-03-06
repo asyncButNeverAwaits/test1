@@ -832,6 +832,14 @@
     "previous": "0.3%"
   },
   {
+    "title": "FOMC Member Waller Speaks",
+    "country": "USD",
+    "date": "2026-03-06T07:30:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Average Hourly Earnings m/m",
     "country": "USD",
     "date": "2026-03-06T08:30:00-05:00",
@@ -872,6 +880,22 @@
     "previous": "4.3%"
   },
   {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "date": "2026-03-06T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2026-03-06T09:50:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Ivey PMI",
     "country": "CAD",
     "date": "2026-03-06T10:00:00-05:00",
@@ -899,6 +923,22 @@
     "title": "FOMC Member Paulson Speaks",
     "country": "USD",
     "date": "2026-03-06T10:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-03-06T11:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-03-06T11:30:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
@@ -934,5 +974,13 @@
     "impact": "Low",
     "forecast": "12.4B",
     "previous": "24.0B"
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-03-06T15:10:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   }
 ]
