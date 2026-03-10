@@ -176,20 +176,20 @@
     "previous": "3"
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "date": "2026-03-09T23:03:00-04:00",
-    "impact": "Low",
-    "forecast": "1250B",
-    "previous": "809B"
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
-    "date": "2026-03-09T23:04:00-04:00",
+    "date": "2026-03-09T23:01:00-04:00",
     "impact": "Low",
     "forecast": "177.4B",
     "previous": "114.1B"
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "date": "2026-03-09T23:02:00-04:00",
+    "impact": "Low",
+    "forecast": "1250B",
+    "previous": "809B"
   },
   {
     "title": "Prelim Machine Tool Orders y/y",
