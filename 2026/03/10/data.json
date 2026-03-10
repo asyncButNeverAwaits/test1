@@ -216,22 +216,6 @@
     "previous": "-4.8B"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-03-10T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "8.9%",
-    "previous": "9.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-03-10T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "865B",
-    "previous": "4710B"
-  },
-  {
     "title": "ECOFIN Meetings",
     "country": "EUR",
     "date": "2026-03-10T05:15:00-04:00",
@@ -286,6 +270,22 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.2%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-03-11T04:03:00-04:00",
+    "impact": "Low",
+    "forecast": "8.9%",
+    "previous": "9.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-03-11T04:03:00-04:00",
+    "impact": "Low",
+    "forecast": "865B",
+    "previous": "4710B"
   },
   {
     "title": "MPC Member Breeden Speaks",
