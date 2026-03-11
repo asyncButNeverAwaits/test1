@@ -272,22 +272,6 @@
     "previous": "0.2%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-03-11T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "8.9%",
-    "previous": "9.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-03-11T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "865B",
-    "previous": "4710B"
-  },
-  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "date": "2026-03-11T06:00:00-04:00",
@@ -390,6 +374,22 @@
     "impact": "Low",
     "forecast": "-8%",
     "previous": "-10%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-03-12T04:03:00-04:00",
+    "impact": "Low",
+    "forecast": "8.9%",
+    "previous": "9.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-03-12T04:03:00-04:00",
+    "impact": "Low",
+    "forecast": "865B",
+    "previous": "4710B"
   },
   {
     "title": "Italian Quarterly Unemployment Rate",
