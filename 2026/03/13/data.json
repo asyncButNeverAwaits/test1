@@ -576,22 +576,6 @@
     "previous": "0.7%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-03-13T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "8.9%",
-    "previous": "9.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-03-13T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "865B",
-    "previous": "4710B"
-  },
-  {
     "title": "Italian Industrial Production m/m",
     "country": "EUR",
     "date": "2026-03-13T05:00:00-04:00",
@@ -606,6 +590,22 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.5%"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-03-13T05:33:00-04:00",
+    "impact": "Low",
+    "forecast": "8.9%",
+    "previous": "9.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-03-13T05:33:00-04:00",
+    "impact": "Low",
+    "forecast": "865B",
+    "previous": "4710B"
   },
   {
     "title": "Industrial Production m/m",
