@@ -104,20 +104,20 @@
     "previous": "2.7%"
   },
   {
-    "title": "Core CPI m/m",
-    "country": "CAD",
-    "date": "2026-03-16T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.2%"
-  },
-  {
     "title": "Empire State Manufacturing Index",
     "country": "USD",
     "date": "2026-03-16T08:30:00-04:00",
     "impact": "Medium",
     "forecast": "4.0",
     "previous": "7.1"
+  },
+  {
+    "title": "Core CPI m/m",
+    "country": "CAD",
+    "date": "2026-03-16T08:32:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.2%"
   },
   {
     "title": "Capacity Utilization Rate",
