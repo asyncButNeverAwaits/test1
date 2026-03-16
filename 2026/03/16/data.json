@@ -188,7 +188,7 @@
     "country": "JPY",
     "date": "2026-03-17T00:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.8%",
+    "forecast": "0.9%",
     "previous": "-0.5%"
   },
   {
@@ -204,7 +204,7 @@
     "country": "EUR",
     "date": "2026-03-17T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "38.9",
+    "forecast": "39.0",
     "previous": "58.3"
   },
   {
@@ -212,7 +212,7 @@
     "country": "EUR",
     "date": "2026-03-17T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "24.0",
+    "forecast": "26.5",
     "previous": "39.4"
   },
   {
@@ -228,7 +228,7 @@
     "country": "USD",
     "date": "2026-03-17T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "-1.2%",
+    "forecast": "-0.6%",
     "previous": "-0.8%"
   },
   {
@@ -268,7 +268,7 @@
     "country": "NZD",
     "date": "2026-03-17T17:45:00-04:00",
     "impact": "Low",
-    "forecast": "-4.75B",
+    "forecast": "-4.78B",
     "previous": "-8.37B"
   },
   {
@@ -573,7 +573,7 @@
     "date": "2026-03-19T05:03:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "3.17|2.5"
   },
   {
     "title": "Monetary Policy Summary",
