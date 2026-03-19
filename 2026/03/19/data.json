@@ -528,14 +528,6 @@
     "previous": "5.2%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-03-19T03:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-5.7%"
-  },
-  {
     "title": "SNB Monetary Policy Assessment",
     "country": "CHF",
     "date": "2026-03-19T04:30:00-04:00",
@@ -734,6 +726,14 @@
     "impact": "Low",
     "forecast": "8.7B",
     "previous": "-30.4B"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-03-20T03:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.7%"
   },
   {
     "title": "Current Account",
