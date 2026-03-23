@@ -408,6 +408,14 @@
     "previous": "6.2M"
   },
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-03-25T16:10:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "RBA Assist Gov Kent Speaks",
     "country": "AUD",
     "date": "2026-03-25T18:15:00-04:00",
@@ -520,9 +528,33 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Cook Speaks",
+    "country": "USD",
+    "date": "2026-03-26T16:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-03-26T18:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "FOMC Member Jefferson Speaks",
     "country": "USD",
     "date": "2026-03-26T19:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "date": "2026-03-26T19:10:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
