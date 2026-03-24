@@ -412,7 +412,7 @@
     "country": "USD",
     "date": "2026-03-25T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "-1.4M",
+    "forecast": "-1.3M",
     "previous": "6.2M"
   },
   {
@@ -516,7 +516,7 @@
     "country": "USD",
     "date": "2026-03-26T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-49B",
     "previous": "35B"
   },
   {
