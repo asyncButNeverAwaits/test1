@@ -640,6 +640,14 @@
     "previous": "3.4%"
   },
   {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-03-27T11:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "FOMC Member Daly Speaks",
     "country": "USD",
     "date": "2026-03-27T11:30:00-04:00",
@@ -650,7 +658,7 @@
   {
     "title": "FOMC Member Paulson Speaks",
     "country": "USD",
-    "date": "2026-03-27T11:40:00-04:00",
+    "date": "2026-03-27T11:30:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
