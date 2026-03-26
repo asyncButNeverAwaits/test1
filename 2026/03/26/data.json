@@ -448,14 +448,6 @@
     "previous": "2.6%"
   },
   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "date": "2026-03-25T23:35:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0"
-  },
-  {
     "title": "BOJ Core CPI y/y",
     "country": "JPY",
     "date": "2026-03-26T01:00:00-04:00",
@@ -590,6 +582,14 @@
     "impact": "Low",
     "forecast": "-24",
     "previous": "-19"
+  },
+  {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "date": "2026-03-26T23:35:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0"
   },
   {
     "title": "Retail Sales m/m",
