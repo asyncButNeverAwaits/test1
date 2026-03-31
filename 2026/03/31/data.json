@@ -644,7 +644,7 @@
     "country": "EUR",
     "date": "2026-04-02T05:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.6%"
   },
   {
@@ -684,7 +684,7 @@
     "country": "USD",
     "date": "2026-04-02T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-60.3B",
+    "forecast": "-60.5B",
     "previous": "-54.5B"
   },
   {
@@ -700,7 +700,7 @@
     "country": "USD",
     "date": "2026-04-02T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "39B",
+    "forecast": "38B",
     "previous": "-54B"
   },
   {
@@ -788,7 +788,7 @@
     "country": "USD",
     "date": "2026-04-03T08:30:00-04:00",
     "impact": "High",
-    "forecast": "63K",
+    "forecast": "65K",
     "previous": "-92K"
   },
   {
