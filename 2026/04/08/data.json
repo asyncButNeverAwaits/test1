@@ -424,20 +424,20 @@
     "previous": "5.5M"
   },
   {
-    "title": "FOMC Member Daly Speaks",
-    "country": "USD",
-    "date": "2026-04-08T13:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "USD",
     "date": "2026-04-08T13:01:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "4.22|2.4"
+  },
+  {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "date": "2026-04-08T13:05:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "FOMC Meeting Minutes",
@@ -646,14 +646,6 @@
     "impact": "Low",
     "forecast": "0.5%",
     "previous": "-0.6%"
-  },
-  {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-04-10T05:33:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Employment Change",
