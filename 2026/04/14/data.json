@@ -348,7 +348,7 @@
     "country": "USD",
     "date": "2026-04-15T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "0.6",
+    "forecast": "0.3",
     "previous": "-0.2"
   },
   {
@@ -360,11 +360,19 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "date": "2026-04-15T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Import Prices m/m",
     "country": "USD",
     "date": "2026-04-15T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "2.1%",
+    "forecast": "2.3%",
     "previous": "1.3%"
   },
   {
@@ -604,7 +612,7 @@
     "country": "CHF",
     "date": "2026-04-16T02:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.5%",
     "previous": "-0.3%"
   },
   {
@@ -652,7 +660,7 @@
     "country": "USD",
     "date": "2026-04-16T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "212K",
+    "forecast": "213K",
     "previous": "219K"
   },
   {
@@ -692,7 +700,7 @@
     "country": "USD",
     "date": "2026-04-16T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "55B",
     "previous": "50B"
   },
   {
@@ -788,7 +796,7 @@
     "country": "CAD",
     "date": "2026-04-17T08:15:00-04:00",
     "impact": "Low",
-    "forecast": "256K",
+    "forecast": "258K",
     "previous": "251K"
   },
   {
