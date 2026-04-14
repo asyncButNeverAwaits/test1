@@ -104,20 +104,20 @@
     "previous": "-1"
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "date": "2026-04-13T23:03:00-04:00",
-    "impact": "Low",
-    "forecast": "760B",
-    "previous": "1503B"
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
-    "date": "2026-04-13T23:04:00-04:00",
+    "date": "2026-04-13T22:56:00-04:00",
     "impact": "Low",
     "forecast": "107.2B",
     "previous": "213.6B"
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "date": "2026-04-13T22:57:00-04:00",
+    "impact": "Low",
+    "forecast": "760B",
+    "previous": "1503B"
   },
   {
     "title": "Revised Industrial Production m/m",
