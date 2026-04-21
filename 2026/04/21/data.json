@@ -226,7 +226,7 @@
   {
     "title": "GDT Price Index",
     "country": "NZD",
-    "date": "2026-04-21T10:50:00-04:00",
+    "date": "2026-04-21T11:29:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-3.4%"
@@ -312,14 +312,6 @@
     "previous": "3.6%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-04-22T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-5.7%"
-  },
-  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "date": "2026-04-22T04:05:00-04:00",
@@ -364,7 +356,7 @@
     "country": "USD",
     "date": "2026-04-22T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.9M",
     "previous": "-0.9M"
   },
   {
@@ -582,6 +574,14 @@
     "impact": "High",
     "forecast": "0.0%",
     "previous": "-0.4%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-04-24T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.7%"
   },
   {
     "title": "SNB Chairman Schlegel Speaks",
