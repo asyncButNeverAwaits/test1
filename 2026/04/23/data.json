@@ -520,6 +520,14 @@
     "previous": "207K"
   },
   {
+    "title": "GfK Consumer Confidence",
+    "country": "GBP",
+    "date": "2026-04-23T09:21:00-04:00",
+    "impact": "Low",
+    "forecast": "-24",
+    "previous": "-21"
+  },
+  {
     "title": "Flash Manufacturing PMI",
     "country": "USD",
     "date": "2026-04-23T09:45:00-04:00",
@@ -550,14 +558,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
-  },
-  {
-    "title": "GfK Consumer Confidence",
-    "country": "GBP",
-    "date": "2026-04-23T19:01:00-04:00",
-    "impact": "Low",
-    "forecast": "-24",
-    "previous": "-21"
   },
   {
     "title": "National Core CPI y/y",
