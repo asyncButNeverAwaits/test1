@@ -646,5 +646,13 @@
     "impact": "Low",
     "forecast": "",
     "previous": "4.8%"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-04-25T12:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   }
 ]
