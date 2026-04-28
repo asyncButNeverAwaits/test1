@@ -66,7 +66,7 @@
   {
     "title": "BOJ Policy Rate",
     "country": "JPY",
-    "date": "2026-04-27T22:30:00-04:00",
+    "date": "2026-04-27T22:59:00-04:00",
     "impact": "High",
     "forecast": "<0.75%",
     "previous": "<0.75%"
@@ -74,7 +74,7 @@
   {
     "title": "Monetary Policy Statement",
     "country": "JPY",
-    "date": "2026-04-27T22:30:00-04:00",
+    "date": "2026-04-27T22:59:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
@@ -82,7 +82,7 @@
   {
     "title": "BOJ Outlook Report",
     "country": "JPY",
-    "date": "2026-04-27T22:31:00-04:00",
+    "date": "2026-04-27T23:00:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
