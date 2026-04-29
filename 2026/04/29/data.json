@@ -258,10 +258,26 @@
   {
     "title": "Building Permits",
     "country": "USD",
+    "date": "2026-04-29T08:28:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.38M"
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-04-29T08:28:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.49M"
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
     "date": "2026-04-29T08:30:00-04:00",
     "impact": "Low",
     "forecast": "1.39M",
-    "previous": ""
+    "previous": "1.54M"
   },
   {
     "title": "Core Durable Goods Orders m/m",
@@ -293,7 +309,7 @@
     "date": "2026-04-29T08:30:00-04:00",
     "impact": "Low",
     "forecast": "1.38M",
-    "previous": ""
+    "previous": "1.36M"
   },
   {
     "title": "Prelim Wholesale Inventories m/m",
@@ -301,23 +317,7 @@
     "date": "2026-04-29T08:30:00-04:00",
     "impact": "Low",
     "forecast": "0.4%",
-    "previous": "0.2%"
-  },
-  {
-    "title": "Building Permits",
-    "country": "USD",
-    "date": "2026-04-29T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.38M"
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "date": "2026-04-29T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.49M"
+    "previous": "0.8%"
   },
   {
     "title": "BOC Monetary Policy Report",
