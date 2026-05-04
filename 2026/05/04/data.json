@@ -880,14 +880,6 @@
     "previous": ""
   },
   {
-    "title": "FOMC Member Waller Speaks",
-    "country": "USD",
-    "date": "2026-05-08T19:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "FOMC Member Bowman Speaks",
     "country": "USD",
     "date": "2026-05-08T19:30:00-04:00",
@@ -905,6 +897,14 @@
   },
   {
     "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2026-05-08T19:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Waller Speaks",
     "country": "USD",
     "date": "2026-05-08T19:30:00-04:00",
     "impact": "Low",
