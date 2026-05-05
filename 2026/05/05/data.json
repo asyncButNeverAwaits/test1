@@ -240,14 +240,6 @@
     "previous": ""
   },
   {
-    "title": "French Gov Budget Balance",
-    "country": "EUR",
-    "date": "2026-05-05T08:05:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-32.1B"
-  },
-  {
     "title": "Trade Balance",
     "country": "CAD",
     "date": "2026-05-05T08:30:00-04:00",
@@ -270,6 +262,14 @@
     "impact": "Low",
     "forecast": "-61.0B",
     "previous": "-57.3B"
+  },
+  {
+    "title": "French Gov Budget Balance",
+    "country": "EUR",
+    "date": "2026-05-05T09:31:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-32.1B"
   },
   {
     "title": "Final Services PMI",
