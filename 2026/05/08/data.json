@@ -736,22 +736,6 @@
     "previous": "3.3%"
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "date": "2026-05-07T22:03:00-04:00",
-    "impact": "Low",
-    "forecast": "575B",
-    "previous": "355B"
-  },
-  {
-    "title": "USD-Denominated Trade Balance",
-    "country": "CNY",
-    "date": "2026-05-07T22:04:00-04:00",
-    "impact": "Low",
-    "forecast": "83.1B",
-    "previous": "51.1B"
-  },
-  {
     "title": "German Industrial Production m/m",
     "country": "EUR",
     "date": "2026-05-08T02:00:00-04:00",
@@ -918,5 +902,21 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "date": "2026-05-08T23:33:00-04:00",
+    "impact": "Low",
+    "forecast": "575B",
+    "previous": "355B"
+  },
+  {
+    "title": "USD-Denominated Trade Balance",
+    "country": "CNY",
+    "date": "2026-05-08T23:33:00-04:00",
+    "impact": "Low",
+    "forecast": "83.1B",
+    "previous": "51.1B"
   }
 ]
