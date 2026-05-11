@@ -708,7 +708,7 @@
     "country": "CAD",
     "date": "2026-05-15T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "11.4B",
     "previous": "6.17B"
   },
   {
@@ -716,7 +716,7 @@
     "country": "CAD",
     "date": "2026-05-15T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "3.4%",
+    "forecast": "3.5%",
     "previous": "3.6%"
   },
   {
@@ -724,7 +724,7 @@
     "country": "USD",
     "date": "2026-05-15T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "7.3",
+    "forecast": "7.4",
     "previous": "11.0"
   },
   {
@@ -740,15 +740,7 @@
     "country": "USD",
     "date": "2026-05-15T09:15:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "-0.5%"
-  },
-  {
-    "title": "Treasury Currency Report",
-    "country": "USD",
-    "date": "2026-05-15T16:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   }
 ]
