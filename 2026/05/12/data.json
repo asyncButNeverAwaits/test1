@@ -184,6 +184,14 @@
     "previous": "3.3%"
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2026-05-12T09:10:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "CB Leading Index m/m",
     "country": "AUD",
     "date": "2026-05-12T10:30:00-04:00",
@@ -246,14 +254,6 @@
     "impact": "Low",
     "forecast": "2.95T",
     "previous": "2.71T"
-  },
-  {
-    "title": "FOMC Member Goolsbee Speaks",
-    "country": "USD",
-    "date": "2026-05-12T21:10:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Wage Price Index q/q",
