@@ -376,14 +376,6 @@
     "previous": ""
   },
   {
-    "title": "Fed Chair Nomination Vote",
-    "country": "USD",
-    "date": "2026-05-13T12:29:00-04:00",
-    "impact": "High",
-    "forecast": "Pass",
-    "previous": ""
-  },
-  {
     "title": "30-y Bond Auction",
     "country": "USD",
     "date": "2026-05-13T13:01:00-04:00",
@@ -405,6 +397,14 @@
     "date": "2026-05-13T13:30:00-04:00",
     "impact": "Low",
     "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Fed Chair Nomination Vote",
+    "country": "USD",
+    "date": "2026-05-13T14:30:00-04:00",
+    "impact": "High",
+    "forecast": "Pass",
     "previous": ""
   },
   {
