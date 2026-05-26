@@ -108,7 +108,7 @@
     "country": "JPY",
     "date": "2026-05-26T19:50:00-04:00",
     "impact": "Low",
-    "forecast": "3.2%",
+    "forecast": "3.3%",
     "previous": "3.1%"
   },
   {
@@ -338,7 +338,7 @@
   {
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
-    "date": "2026-05-28T03:20:00-04:00",
+    "date": "2026-05-28T02:10:00-04:00",
     "impact": "Medium",
     "forecast": "",
     "previous": ""
@@ -582,6 +582,14 @@
     "impact": "Low",
     "forecast": "1.2%",
     "previous": "3.6%"
+  },
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "date": "2026-05-29T02:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "German Prelim CPI m/m",
