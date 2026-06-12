@@ -536,22 +536,6 @@
     "previous": "0.1%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-06-12T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "8.6%",
-    "previous": "8.6%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-06-12T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "450B",
-    "previous": "-10B"
-  },
-  {
     "title": "Consumer Inflation Expectations",
     "country": "GBP",
     "date": "2026-06-12T04:30:00-04:00",
