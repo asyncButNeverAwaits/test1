@@ -72,6 +72,14 @@
     "previous": "4.71B"
   },
   {
+    "title": "G7 Meetings",
+    "country": "All",
+    "date": "2026-06-15T04:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Industrial Production m/m",
     "country": "EUR",
     "date": "2026-06-15T05:00:00-04:00",
@@ -244,6 +252,14 @@
     "country": "JPY",
     "date": "2026-06-16T01:30:00-04:00",
     "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "G7 Meetings",
+    "country": "All",
+    "date": "2026-06-16T04:45:00-04:00",
+    "impact": "Low",
     "forecast": "",
     "previous": ""
   },
@@ -424,6 +440,14 @@
     "previous": "0.0%"
   },
   {
+    "title": "G7 Meetings",
+    "country": "All",
+    "date": "2026-06-17T04:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Final Core CPI y/y",
     "country": "EUR",
     "date": "2026-06-17T05:00:00-04:00",
@@ -462,6 +486,14 @@
     "impact": "Medium",
     "forecast": "0.5%",
     "previous": "0.5%"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-06-17T09:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Business Inventories m/m",
