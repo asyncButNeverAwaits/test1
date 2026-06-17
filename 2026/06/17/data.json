@@ -496,14 +496,6 @@
     "previous": "0.5%"
   },
   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-06-17T09:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Business Inventories m/m",
     "country": "USD",
     "date": "2026-06-17T10:00:00-04:00",
@@ -526,6 +518,14 @@
     "impact": "Low",
     "forecast": "-3.6M",
     "previous": "-7.2M"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-06-17T10:45:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Federal Funds Rate",
