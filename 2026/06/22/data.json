@@ -104,6 +104,14 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "date": "2026-06-22T17:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Flash Manufacturing PMI",
     "country": "AUD",
     "date": "2026-06-22T19:00:00-04:00",
@@ -396,7 +404,7 @@
     "country": "USD",
     "date": "2026-06-24T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-219B",
+    "forecast": "-206B",
     "previous": "-191B"
   },
   {
@@ -468,7 +476,7 @@
     "country": "AUD",
     "date": "2026-06-24T21:30:00-04:00",
     "impact": "High",
-    "forecast": "30.3K",
+    "forecast": "31.4K",
     "previous": "-18.6K"
   },
   {
@@ -500,7 +508,7 @@
     "country": "EUR",
     "date": "2026-06-25T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-27.6",
+    "forecast": "-27.9",
     "previous": "-29.8"
   },
   {
@@ -644,7 +652,7 @@
     "country": "USD",
     "date": "2026-06-26T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-85.4B",
+    "forecast": "-84.9B",
     "previous": "-82.4B"
   },
   {
