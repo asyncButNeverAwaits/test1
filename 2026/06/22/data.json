@@ -556,8 +556,8 @@
     "country": "USD",
     "date": "2026-06-25T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "226K",
-    "previous": "229K"
+    "forecast": "225K",
+    "previous": "226K"
   },
   {
     "title": "Core Durable Goods Orders m/m",
@@ -572,7 +572,7 @@
     "country": "USD",
     "date": "2026-06-25T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-4.9%",
+    "forecast": "-5.0%",
     "previous": "7.9%"
   },
   {
@@ -604,7 +604,7 @@
     "country": "USD",
     "date": "2026-06-25T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "67B",
     "previous": "73B"
   },
   {
@@ -652,7 +652,7 @@
     "country": "USD",
     "date": "2026-06-26T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "-84.9B",
+    "forecast": "-85.0B",
     "previous": "-82.4B"
   },
   {
