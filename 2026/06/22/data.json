@@ -24,6 +24,14 @@
     "previous": "2.9%"
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-06-22T05:06:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-10.3%"
+  },
+  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "date": "2026-06-22T07:00:00-04:00",
@@ -144,19 +152,11 @@
     "previous": "1.4%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-06-23T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-10.3%"
-  },
-  {
     "title": "French Flash Manufacturing PMI",
     "country": "EUR",
     "date": "2026-06-23T03:15:00-04:00",
     "impact": "Medium",
-    "forecast": "50.1",
+    "forecast": "50.2",
     "previous": "48.9"
   },
   {
@@ -164,7 +164,7 @@
     "country": "EUR",
     "date": "2026-06-23T03:15:00-04:00",
     "impact": "Medium",
-    "forecast": "45.7",
+    "forecast": "45.9",
     "previous": "42.9"
   },
   {
@@ -172,7 +172,7 @@
     "country": "EUR",
     "date": "2026-06-23T03:30:00-04:00",
     "impact": "Medium",
-    "forecast": "50.2",
+    "forecast": "50.3",
     "previous": "49.9"
   },
   {
@@ -212,7 +212,7 @@
     "country": "GBP",
     "date": "2026-06-23T04:30:00-04:00",
     "impact": "Medium",
-    "forecast": "50.0",
+    "forecast": "50.1",
     "previous": "47.9"
   },
   {
@@ -268,7 +268,7 @@
     "country": "USD",
     "date": "2026-06-23T09:45:00-04:00",
     "impact": "Medium",
-    "forecast": "51.0",
+    "forecast": "51.1",
     "previous": "50.9"
   },
   {
