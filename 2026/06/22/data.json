@@ -24,14 +24,6 @@
     "previous": "2.9%"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-06-22T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-10.3%"
-  },
-  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "date": "2026-06-22T07:00:00-04:00",
@@ -134,6 +126,14 @@
     "impact": "Low",
     "forecast": "1.5%",
     "previous": "1.4%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-06-23T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-10.3%"
   },
   {
     "title": "French Flash Manufacturing PMI",
