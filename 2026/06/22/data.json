@@ -428,7 +428,7 @@
     "country": "USD",
     "date": "2026-06-24T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "637K",
+    "forecast": "638K",
     "previous": "622K"
   },
   {
@@ -436,7 +436,7 @@
     "country": "USD",
     "date": "2026-06-24T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-5.1M",
     "previous": "-8.3M"
   },
   {
@@ -476,7 +476,7 @@
     "country": "AUD",
     "date": "2026-06-24T21:30:00-04:00",
     "impact": "High",
-    "forecast": "31.4K",
+    "forecast": "31.2K",
     "previous": "-18.6K"
   },
   {
@@ -492,7 +492,7 @@
     "country": "AUD",
     "date": "2026-06-24T21:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.6%",
+    "forecast": "0.5%",
     "previous": "-1.1%"
   },
   {
@@ -501,14 +501,14 @@
     "date": "2026-06-24T21:35:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "-4"
   },
   {
     "title": "German GfK Consumer Climate",
     "country": "EUR",
     "date": "2026-06-25T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "-27.9",
+    "forecast": "-27.8",
     "previous": "-29.8"
   },
   {
