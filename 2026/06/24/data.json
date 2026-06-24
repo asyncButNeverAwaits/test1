@@ -416,20 +416,20 @@
     "previous": "-191B"
   },
   {
+    "title": "Belgian NBB Business Climate",
+    "country": "EUR",
+    "date": "2026-06-24T08:38:00-04:00",
+    "impact": "Low",
+    "forecast": "-12.0",
+    "previous": "-13.3"
+  },
+  {
     "title": "SNB Quarterly Bulletin",
     "country": "CHF",
     "date": "2026-06-24T09:00:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
-  },
-  {
-    "title": "Belgian NBB Business Climate",
-    "country": "EUR",
-    "date": "2026-06-24T09:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-12.0",
-    "previous": "-13.3"
   },
   {
     "title": "New Home Sales",
