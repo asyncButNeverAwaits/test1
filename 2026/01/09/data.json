@@ -1,0 +1,770 @@
+[
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "date": "2026-01-04T12:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Final Manufacturing PMI",
+    "country": "JPY",
+    "date": "2026-01-04T19:30:00-05:00",
+    "impact": "Low",
+    "forecast": "49.8",
+    "previous": "49.7"
+  },
+  {
+    "title": "RatingDog Services PMI",
+    "country": "CNY",
+    "date": "2026-01-04T20:45:00-05:00",
+    "impact": "Low",
+    "forecast": "52.0",
+    "previous": "52.1"
+  },
+  {
+    "title": "Retail Sales y/y",
+    "country": "CHF",
+    "date": "2026-01-05T02:30:00-05:00",
+    "impact": "Low",
+    "forecast": "2.5%",
+    "previous": "2.7%"
+  },
+  {
+    "title": "Spanish Unemployment Change",
+    "country": "EUR",
+    "date": "2026-01-05T03:00:00-05:00",
+    "impact": "Low",
+    "forecast": "5.7K",
+    "previous": "-18.8K"
+  },
+  {
+    "title": "Manufacturing PMI",
+    "country": "CHF",
+    "date": "2026-01-05T03:30:00-05:00",
+    "impact": "Low",
+    "forecast": "49.7",
+    "previous": "49.7"
+  },
+  {
+    "title": "M4 Money Supply m/m",
+    "country": "GBP",
+    "date": "2026-01-05T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.1%",
+    "previous": "-0.2%"
+  },
+  {
+    "title": "Mortgage Approvals",
+    "country": "GBP",
+    "date": "2026-01-05T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "64K",
+    "previous": "65K"
+  },
+  {
+    "title": "Net Lending to Individuals m/m",
+    "country": "GBP",
+    "date": "2026-01-05T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "5.2B",
+    "previous": "5.4B"
+  },
+  {
+    "title": "ISM Manufacturing PMI",
+    "country": "USD",
+    "date": "2026-01-05T10:00:00-05:00",
+    "impact": "High",
+    "forecast": "48.3",
+    "previous": "48.2"
+  },
+  {
+    "title": "ISM Manufacturing Prices",
+    "country": "USD",
+    "date": "2026-01-05T10:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "59.0",
+    "previous": "58.5"
+  },
+  {
+    "title": "Wards Total Vehicle Sales",
+    "country": "USD",
+    "date": "2026-01-05T10:15:00-05:00",
+    "impact": "Low",
+    "forecast": "15.7M",
+    "previous": "15.6M"
+  },
+  {
+    "title": "Monetary Base y/y",
+    "country": "JPY",
+    "date": "2026-01-05T18:50:00-05:00",
+    "impact": "Low",
+    "forecast": "-8.0%",
+    "previous": "-8.5%"
+  },
+  {
+    "title": "10-y Bond Auction",
+    "country": "JPY",
+    "date": "2026-01-05T22:35:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.87|3.6"
+  },
+  {
+    "title": "Italian Bank Holiday",
+    "country": "EUR",
+    "date": "2026-01-06T02:03:00-05:00",
+    "impact": "Holiday",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "German Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-01-06T02:29:00-05:00",
+    "impact": "Medium",
+    "forecast": "0.3%",
+    "previous": "-0.2%"
+  },
+  {
+    "title": "French Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-01-06T02:45:00-05:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-0.1%"
+  },
+  {
+    "title": "Spanish Services PMI",
+    "country": "EUR",
+    "date": "2026-01-06T03:15:00-05:00",
+    "impact": "Low",
+    "forecast": "54.8",
+    "previous": "55.6"
+  },
+  {
+    "title": "Italian Services PMI",
+    "country": "EUR",
+    "date": "2026-01-06T03:45:00-05:00",
+    "impact": "Low",
+    "forecast": "54.2",
+    "previous": "55.0"
+  },
+  {
+    "title": "French Final Services PMI",
+    "country": "EUR",
+    "date": "2026-01-06T03:50:00-05:00",
+    "impact": "Low",
+    "forecast": "50.3",
+    "previous": "50.2"
+  },
+  {
+    "title": "German Final Services PMI",
+    "country": "EUR",
+    "date": "2026-01-06T03:55:00-05:00",
+    "impact": "Low",
+    "forecast": "52.6",
+    "previous": "52.6"
+  },
+  {
+    "title": "Final Services PMI",
+    "country": "EUR",
+    "date": "2026-01-06T04:00:00-05:00",
+    "impact": "Low",
+    "forecast": "52.6",
+    "previous": "52.6"
+  },
+  {
+    "title": "Final Services PMI",
+    "country": "GBP",
+    "date": "2026-01-06T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "52.1",
+    "previous": "52.1"
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-01-06T08:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Final Services PMI",
+    "country": "USD",
+    "date": "2026-01-06T09:45:00-05:00",
+    "impact": "Low",
+    "forecast": "52.9",
+    "previous": "52.9"
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "date": "2026-01-06T10:54:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-4.4%"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-01-06T14:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "API Weekly Statistical Bulletin",
+    "country": "USD",
+    "date": "2026-01-06T16:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "CPI m/m",
+    "country": "AUD",
+    "date": "2026-01-06T19:30:00-05:00",
+    "impact": "High",
+    "forecast": "0.1%",
+    "previous": "0.0%"
+  },
+  {
+    "title": "CPI y/y",
+    "country": "AUD",
+    "date": "2026-01-06T19:30:00-05:00",
+    "impact": "High",
+    "forecast": "3.6%",
+    "previous": "3.8%"
+  },
+  {
+    "title": "Trimmed Mean CPI m/m",
+    "country": "AUD",
+    "date": "2026-01-06T19:30:00-05:00",
+    "impact": "High",
+    "forecast": "0.2%",
+    "previous": "0.3%"
+  },
+  {
+    "title": "Building Approvals m/m",
+    "country": "AUD",
+    "date": "2026-01-06T19:30:00-05:00",
+    "impact": "Low",
+    "forecast": "1.9%",
+    "previous": "-6.4%"
+  },
+  {
+    "title": "German Retail Sales m/m",
+    "country": "EUR",
+    "date": "2026-01-07T02:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-0.3%"
+  },
+  {
+    "title": "German Unemployment Change",
+    "country": "EUR",
+    "date": "2026-01-07T03:55:00-05:00",
+    "impact": "Low",
+    "forecast": "5K",
+    "previous": "1K"
+  },
+  {
+    "title": "Construction PMI",
+    "country": "GBP",
+    "date": "2026-01-07T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "42.4",
+    "previous": "39.4"
+  },
+  {
+    "title": "Housing Equity Withdrawal q/q",
+    "country": "GBP",
+    "date": "2026-01-07T04:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-8.7B",
+    "previous": "-16.1B"
+  },
+  {
+    "title": "Core CPI Flash Estimate y/y",
+    "country": "EUR",
+    "date": "2026-01-07T05:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "2.4%",
+    "previous": "2.4%"
+  },
+  {
+    "title": "CPI Flash Estimate y/y",
+    "country": "EUR",
+    "date": "2026-01-07T05:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "2.0%",
+    "previous": "2.2%"
+  },
+  {
+    "title": "Italian Prelim CPI m/m",
+    "country": "EUR",
+    "date": "2026-01-07T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-0.2%"
+  },
+  {
+    "title": "German 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-01-07T05:34:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.67|2.0"
+  },
+  {
+    "title": "ADP Non-Farm Employment Change",
+    "country": "USD",
+    "date": "2026-01-07T08:15:00-05:00",
+    "impact": "High",
+    "forecast": "49K",
+    "previous": "-32K"
+  },
+  {
+    "title": "Ivey PMI",
+    "country": "CAD",
+    "date": "2026-01-07T10:00:00-05:00",
+    "impact": "Medium",
+    "forecast": "49.5",
+    "previous": "48.4"
+  },
+  {
+    "title": "ISM Services PMI",
+    "country": "USD",
+    "date": "2026-01-07T10:00:00-05:00",
+    "impact": "High",
+    "forecast": "52.2",
+    "previous": "52.6"
+  },
+  {
+    "title": "JOLTS Job Openings",
+    "country": "USD",
+    "date": "2026-01-07T10:00:00-05:00",
+    "impact": "High",
+    "forecast": "7.61M",
+    "previous": "7.67M"
+  },
+  {
+    "title": "Factory Orders m/m",
+    "country": "USD",
+    "date": "2026-01-07T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "-1.1%",
+    "previous": "0.2%"
+  },
+  {
+    "title": "Crude Oil Inventories",
+    "country": "USD",
+    "date": "2026-01-07T10:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-1.2M",
+    "previous": "-1.9M"
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-01-07T16:10:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Average Cash Earnings y/y",
+    "country": "JPY",
+    "date": "2026-01-07T18:30:00-05:00",
+    "impact": "Low",
+    "forecast": "2.3%",
+    "previous": "2.6%"
+  },
+  {
+    "title": "Goods Trade Balance",
+    "country": "AUD",
+    "date": "2026-01-07T19:30:00-05:00",
+    "impact": "Low",
+    "forecast": "5.14B",
+    "previous": "4.39B"
+  },
+  {
+    "title": "30-y Bond Auction",
+    "country": "JPY",
+    "date": "2026-01-07T22:35:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.43|4.0"
+  },
+  {
+    "title": "Consumer Confidence",
+    "country": "JPY",
+    "date": "2026-01-08T00:00:00-05:00",
+    "impact": "Low",
+    "forecast": "37.8",
+    "previous": "37.5"
+  },
+  {
+    "title": "German Factory Orders m/m",
+    "country": "EUR",
+    "date": "2026-01-08T02:00:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.9%",
+    "previous": "1.5%"
+  },
+  {
+    "title": "Halifax HPI m/m",
+    "country": "GBP",
+    "date": "2026-01-08T02:02:00-05:00",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.0%"
+  },
+  {
+    "title": "CPI m/m",
+    "country": "CHF",
+    "date": "2026-01-08T02:30:00-05:00",
+    "impact": "High",
+    "forecast": "0.0%",
+    "previous": "-0.2%"
+  },
+  {
+    "title": "French Trade Balance",
+    "country": "EUR",
+    "date": "2026-01-08T02:45:00-05:00",
+    "impact": "Low",
+    "forecast": "-4.3B",
+    "previous": "-3.9B"
+  },
+  {
+    "title": "Summary of Monetary Policy Discussions",
+    "country": "CHF",
+    "date": "2026-01-08T03:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Italian Monthly Unemployment Rate",
+    "country": "EUR",
+    "date": "2026-01-08T04:00:00-05:00",
+    "impact": "Low",
+    "forecast": "6.0%",
+    "previous": "6.0%"
+  },
+  {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-01-08T04:59:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.38|2.3"
+  },
+  {
+    "title": "PPI m/m",
+    "country": "EUR",
+    "date": "2026-01-08T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.4%",
+    "previous": "0.1%"
+  },
+  {
+    "title": "Unemployment Rate",
+    "country": "EUR",
+    "date": "2026-01-08T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "6.4%",
+    "previous": "6.4%"
+  },
+  {
+    "title": "Challenger Job Cuts y/y",
+    "country": "USD",
+    "date": "2026-01-08T05:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "23.5%"
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "date": "2026-01-08T08:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CAD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-1.4B",
+    "previous": "0.2B"
+  },
+  {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "213K",
+    "previous": "199K"
+  },
+  {
+    "title": "Goods Trade Balance",
+    "country": "USD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-79.0B"
+  },
+  {
+    "title": "Prelim Nonfarm Productivity q/q",
+    "country": "USD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "4.9%",
+    "previous": "2.4%"
+  },
+  {
+    "title": "Prelim Unit Labor Costs q/q",
+    "country": "USD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "0.0%",
+    "previous": "1.6%"
+  },
+  {
+    "title": "Trade Balance",
+    "country": "USD",
+    "date": "2026-01-08T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-58.1B",
+    "previous": "-52.8B"
+  },
+  {
+    "title": "Final Wholesale Inventories m/m",
+    "country": "USD",
+    "date": "2026-01-08T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "0.5%"
+  },
+  {
+    "title": "Natural Gas Storage",
+    "country": "USD",
+    "date": "2026-01-08T10:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-109B",
+    "previous": "-38B"
+  },
+  {
+    "title": "Consumer Credit m/m",
+    "country": "USD",
+    "date": "2026-01-08T15:00:00-05:00",
+    "impact": "Low",
+    "forecast": "10.1B",
+    "previous": "9.2B"
+  },
+  {
+    "title": "Household Spending y/y",
+    "country": "JPY",
+    "date": "2026-01-08T18:30:00-05:00",
+    "impact": "Low",
+    "forecast": "-1.0%",
+    "previous": "-3.0%"
+  },
+  {
+    "title": "CPI y/y",
+    "country": "CNY",
+    "date": "2026-01-08T20:30:00-05:00",
+    "impact": "Medium",
+    "forecast": "0.8%",
+    "previous": "0.7%"
+  },
+  {
+    "title": "PPI y/y",
+    "country": "CNY",
+    "date": "2026-01-08T20:30:00-05:00",
+    "impact": "Medium",
+    "forecast": "-2.0%",
+    "previous": "-2.2%"
+  },
+  {
+    "title": "Leading Indicators",
+    "country": "JPY",
+    "date": "2026-01-09T00:00:00-05:00",
+    "impact": "Low",
+    "forecast": "110.4%",
+    "previous": "110.0%"
+  },
+  {
+    "title": "German Industrial Production m/m",
+    "country": "EUR",
+    "date": "2026-01-09T02:00:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.6%",
+    "previous": "1.8%"
+  },
+  {
+    "title": "German Trade Balance",
+    "country": "EUR",
+    "date": "2026-01-09T02:00:00-05:00",
+    "impact": "Low",
+    "forecast": "16.3B",
+    "previous": "16.9B"
+  },
+  {
+    "title": "French Consumer Spending m/m",
+    "country": "EUR",
+    "date": "2026-01-09T02:45:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.1%",
+    "previous": "0.4%"
+  },
+  {
+    "title": "French Industrial Production m/m",
+    "country": "EUR",
+    "date": "2026-01-09T02:45:00-05:00",
+    "impact": "Low",
+    "forecast": "-0.2%",
+    "previous": "0.2%"
+  },
+  {
+    "title": "Foreign Currency Reserves",
+    "country": "CHF",
+    "date": "2026-01-09T03:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "727B"
+  },
+  {
+    "title": "Unemployment Rate",
+    "country": "CHF",
+    "date": "2026-01-09T03:00:00-05:00",
+    "impact": "Low",
+    "forecast": "3.0%",
+    "previous": "3.0%"
+  },
+  {
+    "title": "Italian Retail Sales m/m",
+    "country": "EUR",
+    "date": "2026-01-09T04:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.3%",
+    "previous": "0.5%"
+  },
+  {
+    "title": "Retail Sales m/m",
+    "country": "EUR",
+    "date": "2026-01-09T05:00:00-05:00",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.0%"
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "date": "2026-01-09T08:29:00-05:00",
+    "impact": "Low",
+    "forecast": "1.33M",
+    "previous": "1.31M"
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-01-09T08:29:00-05:00",
+    "impact": "Low",
+    "forecast": "1.29M",
+    "previous": "1.31M"
+  },
+  {
+    "title": "Employment Change",
+    "country": "CAD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "-1.8K",
+    "previous": "53.6K"
+  },
+  {
+    "title": "Unemployment Rate",
+    "country": "CAD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "6.7%",
+    "previous": "6.5%"
+  },
+  {
+    "title": "Average Hourly Earnings m/m",
+    "country": "USD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "0.1%"
+  },
+  {
+    "title": "Non-Farm Employment Change",
+    "country": "USD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "66K",
+    "previous": "64K"
+  },
+  {
+    "title": "Unemployment Rate",
+    "country": "USD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "4.5%",
+    "previous": "4.6%"
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "1.35M",
+    "previous": "1.42M"
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "date": "2026-01-09T08:30:00-05:00",
+    "impact": "Low",
+    "forecast": "1.33M",
+    "previous": "1.31M"
+  },
+  {
+    "title": "Prelim UoM Consumer Sentiment",
+    "country": "USD",
+    "date": "2026-01-09T10:00:00-05:00",
+    "impact": "High",
+    "forecast": "53.5",
+    "previous": "53.3"
+  },
+  {
+    "title": "Prelim UoM Inflation Expectations",
+    "country": "USD",
+    "date": "2026-01-09T10:00:00-05:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": "4.1%"
+  },
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "date": "2026-01-09T10:00:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-01-09T13:35:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  }
+]
