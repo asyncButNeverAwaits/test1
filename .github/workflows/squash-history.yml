@@ -8,6 +8,9 @@ on:
 env:
   RETENTION_DAYS: "14"
 
+permissions:
+  contents: write
+
 jobs:
   squash:
     runs-on: ubuntu-latest
