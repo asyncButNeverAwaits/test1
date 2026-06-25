@@ -1,0 +1,60 @@
+name: Rolling History Squash
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"  # monthly
+  workflow_dispatch:
+
+env:
+  RETENTION_DAYS: "14"
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Create working branch
+        run: |
+          git checkout -b work-branch
+
+      - name: Squash history outside retention window
+        run: |
+          set -e
+          echo "Retention days: $RETENTION_DAYS"
+
+          # 1. Find the exact commit right before the retention window cutoff
+          BASE_COMMIT=$(git rev-list -1 --before="$RETENTION_DAYS days ago" work-branch)
+
+          # If there is no history older than the retention period, exit cleanly
+          if [ -z "$BASE_COMMIT" ]; then
+            echo "No commits older than $RETENTION_DAYS days found. Nothing to squash."
+            exit 0
+          fi
+
+          echo "Squashing history prior to commit $BASE_COMMIT..."
+
+          # 2. Create an orphan branch starting EXACTLY at that old commit's tree
+          git checkout --orphan rebuilt "$BASE_COMMIT"
+
+          # 3. Commit that snapshot as the new root of the repository
+          git commit -m "Squashed history older than $RETENTION_DAYS days"
+
+          # 4. Replant the recent commits (last 14 days) onto this new root
+          # This takes everything AFTER the base commit up to the current working branch,
+          # and applies it to our new 'rebuilt' root.
+          git rebase --onto rebuilt "$BASE_COMMIT" work-branch
+
+      - name: Replace main branch
+        run: |
+          git branch -M main
+          git push origin main --force
