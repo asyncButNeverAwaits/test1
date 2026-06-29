@@ -536,6 +536,14 @@
     "previous": "55.7"
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-07-01T10:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "ISM Manufacturing PMI",
     "country": "USD",
     "date": "2026-07-01T10:00:00-04:00",
@@ -566,14 +574,6 @@
     "impact": "Low",
     "forecast": "16.0M",
     "previous": "16.1M"
-  },
-  {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "date": "2026-07-01T10:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Crude Oil Inventories",
@@ -694,6 +694,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": "4.86|3.5"
+  },
+  {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "date": "2026-07-02T07:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Average Hourly Earnings m/m",
