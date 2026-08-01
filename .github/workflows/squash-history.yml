@@ -1,0 +1,48 @@
+name: History Squash
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"  # monthly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Squash all history
+        run: |
+          set -e
+
+          CURRENT_BRANCH=$(git branch --show-current)
+
+          echo "Squashing entire history of $CURRENT_BRANCH..."
+
+          # Create orphan branch with current repository state
+          git checkout --orphan squashed
+
+          # Remove staged history while keeping files
+          git add -A
+
+          # Create new root commit
+          git commit -m "Squashed repository history"
+
+          # Replace main branch
+          git branch -M main
+
+      - name: Force push rewritten history
+        run: |
+          git push origin main --force
