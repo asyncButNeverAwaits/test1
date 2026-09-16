@@ -402,7 +402,7 @@
   {
     "title": "German 30-y Bond Auction",
     "country": "EUR",
-    "date": "2026-09-16T05:34:00-04:00",
+    "date": "2026-09-16T05:35:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.65|1.3"
@@ -534,14 +534,6 @@
     "impact": "High",
     "forecast": "0.1%",
     "previous": "0.8%"
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-09-17T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-6.2%"
   },
   {
     "title": "SECO Economic Forecasts",
@@ -758,6 +750,14 @@
     "impact": "Medium",
     "forecast": "-0.2%",
     "previous": "-0.5%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-09-18T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-6.2%"
   },
   {
     "title": "Current Account",
